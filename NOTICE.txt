@@ -1,0 +1,22 @@
+Apparition IW7 attribution
+
+This work adapts Apparition by CF4_99 (GitHub: CF4x99).
+Original project: https://github.com/CF4x99/Apparition
+Reference version: 1.6.0.9
+Reference commit: 307e94c1b1d6537ba7a2a71b32a22d563d3ea25c
+
+The upstream author requests that scripts and edits retain credit.
+Original credits:
+- Extinct: ideas, suggestions, constructive criticism and Spec-Nade
+- CraftyCritter: BO3 compiler
+- ItsFebiven: ideas and suggestions
+- Joel: suggestions, bug reports and unique string crash protection testing
+
+The IW7 menu and its contracts are GSC source. Compatibility research used
+IW7-Mod and GSC Tool; their executables and game assets are not included in
+this source tree. Stock-game bindings referenced by the scripts require a
+compatible installed game and loader.
+
+This snapshot does not establish native gameplay acceptance or complete
+Apparition feature parity. Existing upstream rights are retained; this notice
+does not add a license or grant rights on behalf of the original author.

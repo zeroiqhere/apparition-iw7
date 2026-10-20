@@ -1,0 +1,19 @@
+# Generated compiler and disassembler output
+compiled/
+disassembled/
+*.gscbin
+*.cgsc
+*.gscmap
+
+# Local caches, logs and editor files
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Local credentials and deployment state
+.env
+.env.*
+.apparition-install/

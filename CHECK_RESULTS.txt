@@ -1,0 +1,1658 @@
+Compilation and static regression record
+
+GSC Tool: 1.6.1.363
+Official latest-release API rechecked: 1.6.1
+Linux release asset SHA-256:
+59778f3e0d486eea74e9b23fcdf48d9ee1babdbb3c702c3a3a4980e8b819797f
+Target: iw7 / pc / server
+Apparition reference main commit: 307e94c1b1d6537ba7a2a71b32a22d563d3ea25c
+Official reference main API rechecked: matches the audited commit
+
+Normal compilation: PASS, 376 GSC files (187 production, 189 tests)
+Developer compilation: PASS, 376 GSC files
+Normal bytecode disassembly: PASS, 376 files
+Page capture: one fresh common view and one page dispatcher; 116 feature snapshot fields scoped
+Page source guards: 44 reviewed predicates; no feature work left outside consumer page guards
+Page dependencies: Portal Controls/UFO progress and UFO Quest Steps/portal entry retained
+Page priority data: personal actor, full-roster, God, perks/retention and Quick life consumer gates
+Page fallback: Soul Key shaped empty ownership receipt retained before optional live snapshot
+Page simplification: unused target_alive and eleven fixture assignments removed; no cache/new worker
+Page scope tests: eight work-only Python regressions EXECUTED, PASS
+Page GSC contracts: normal/developer compiled and assertions retained; NOT EXECUTED
+Page capture baseline: existing providers/actions/models/controller/history/lifecycle unchanged in that refactor
+Newsbar additions: own provider/HUD pair plus server row/action, page snapshot and lifecycle release
+Page native query counts, performance, GUI rendering/navigation and co-op: NOT RUN
+Keyboard entry refactor: one captured pending session published before waits; empty owned map, undefined deadline
+Keyboard entry freshness: exact owner/session/HUD/page/target/grant/life checks after100ms and10ms waits
+Keyboard cursor: source16px text and14px numeric on the existing main-pool handle
+Keyboard frame: optional preserve_scroller skips geometry/alpha/shader writes only for the borrowed role
+Keyboard color: source100ms accent fade; rainbow skips borrowed cursor; normal color cache invalidated
+Keyboard guide: source override begins only after placement; normal controller owns pending input lock
+Keyboard allocation failure: only partial key maps destroyed; canonical retirement then current-HUD redraw
+Keyboard cleanup: keys-only modal release; main HUD destroys the sole scroller once
+Keyboard timing/ownership mutations: six work-only regressions EXECUTED, PASS
+Keyboard new/expanded GSC contracts: compiled and retained, NOT EXECUTED
+Keyboard native animation, allocation failure and real close/death/revoke scheduling: NOT RUN
+Freeze checksum follow-up: official32bit native name-checksum API found; algorithm/body/AI consumer still unresolved
+Priority God/Demi review: source mutual exclusion and mixed lobby behavior retained; no confirmed routing regression
+Priority ammo review: source current-weapon/event/refill modes, fresh current-roster application and Mixed UI retained
+Priority perks review: native ownership remains canonical; shared life/temporary/callback admission and source-scoped retention retained
+Down feedback: ready hint now names both cleared menu protections, God Mode and Demi-God
+Down feedback regression: work-only source check failed before wording change and now EXECUTED, PASS
+Installed player-damage ABI: base/patch3402 allocate12 explicit parameters, receiver separate
+Installed player-damage registration: base/patch CP gametype stores that exact native callback
+Installed player-damage finish: stock wrapper has13 explicit parameters including its extra factor; native Method13 retained
+Installed ABI checker regressions: three work-only tests EXECUTED, PASS
+Player damage/priority native effects and GSC assertions: NOT RUN
+Zombie Health Custom: source row8 and Custom/Reset choices; Reset explicitly unavailable
+Numberpad: ten literal digits, zero default/confirm, source horizontal priority, shared100/10/500ms entry/frame58
+Numberpad input: vertical/Frag ignored before decision; text Frag-to-space remains unchanged
+Numberpad overflow: shared checked integer parser; input stays editable after out-of-range confirmation
+Numberpad lifetime: existing canonical keyboard/HUD/controller; no extra input worker or duplicate timing/parser
+Health admission: fresh actual living private host; numeric whole values0..2147483647
+Health request: same record queued/promoted after source0.1s; old workers retire by identity
+Health current scope: typed native agentarray, live active Axis agents across profiles, skip matching maxhealth
+Health future scope: exact generic_zombie array-key setup callback; stock method0 forwarded once
+Health future order: unique receipt before stock, child frame-end before live/active/roster policy and one write
+Health pool safety: agent_in_use/gameend endons before waits, profile/receipt/config membership checks
+Health callback restore: exact owned wrapper only; guest disconnect preserves another owner's config/request
+Health cleanup: current health not restored; unsupported host/session stops further worker writes
+Health native evidence: installed2773 and base/patch3954 hash-pinned; RSA signatures not verified
+Health native slot regression: struct-field access rejected; native string-keyed array operations retained
+Health BO3 binding regression: unknown local calls/pointers now checked against own module declarations
+Health tests: six new GSC suites and expanded existing contracts compiled/retained, NOT EXECUTED
+Health work-only mutation/source tests: seven EXECUTED, PASS
+Numeric work-only mutation/source tests: five EXECUTED, PASS
+Compiled-local-binding checker tests: three EXECUTED, PASS
+Health/numberpad native linking, scheduler, field effects, HUD/input, special enemies and co-op: NOT RUN
+Take Current Weapon: source Weaponry/Options hierarchy and selected-actor routing retained
+Take Current Weapon exclusions: native none, per-player default melee and _knife names
+Take Current Weapon admission: fresh actor/private/current role, native ownership and loadout readiness
+Take Current Weapon request: one current read, one take, synchronous native zero-arg pistol updater
+Take Current Weapon bookkeeping: installed base/patch matching metadata-only updater; no grant/switch
+Take Current Weapon GUI: snapshot only, no cached weapon payload or checkbox; disabled Drop choices retained
+Take Current Weapon contracts: tests first; two new GSC suites and expanded routing suites compiled/retained
+Take Current Weapon work-only mutation checks: seven EXECUTED, PASS
+Work-only source/page/mutation regression: forty-six Python tests EXECUTED, PASS
+Take Current Weapon GSC VM, native inventory/active slot, scheduling and co-op: NOT RUN
+Show Origin: source eighth Host Menu row, three numeric values at x320/y315,331,347
+Show Origin lifetime: one owned record/worker, independent of menu closure and life state
+Show Origin admission: actual current host, admitted roster, private normal Spaceland
+Show Origin cleanup: partial allocation rollback, identity-safe retirement and lifecycle release
+Show Origin source evidence: numeric2844 SetValue and numeric2961 dynamic origin indexing
+Show Origin tests: tests first; three GSC suites compiled/retained, NOT EXECUTED
+Show Origin work-only source-contract mutation tests: six EXECUTED, PASS
+Show Origin native linking, scheduling, pixel/float rendering and co-op: NOT RUN
+Set Vision source: exact ten values/order, Basic row20, three supported choices and seven explicit blockers
+Set Vision native evidence: installed base/patch player-zombie and base3428 bytecode hashes pinned
+Set Vision mappings: Last Stand last_stand_cp_zmb; Noire cp_zmb_bw as IW7 analogues
+Set Vision Default: fresh native override-or-empty, no menu-only allowlist or override writes
+Set Vision admission: current verified actor/roster/private role before life/native phase reads
+Set Vision dispatch: one fresh two-argument native call; no worker, saved mode or render receipt
+Set Vision GUI: Basic-only typed snapshot, choice reasons, Default preview0; no active/checked profile
+Set Vision review: two independent source reviews; native profile arguments confirmed from pinned bytecode
+Set Vision contracts: tests first, missing module rejected before implementation; assertions compiled/retained
+Set Vision GSC assertions, native rendering/reset timing, BO3 visual equivalence and co-op: NOT RUN
+Server page: 22 physical source labels in order, six direct controls, timer/Doheart submenus, 14 unavailable candidates
+Server visibility: three conditional-family rules unported; full page parity NOT ESTABLISHED
+Server authority: actual/current verified private Co-Host/Host, full roster/member gate; no life gate or target proxy
+Server parity: six direct controls plus Timer/Doheart use one source-role helper; world/EE authority unchanged
+Server callback admission: seven source wrappers retain global scope and fresh provider permission
+Server role contracts: Co-Host with native-host false admitted; VIP/Verified denied before captured state
+Server review correction: stale model Co-Host denial assertion updated; native GSC assertions NOT EXECUTED
+Lobby Timer source: row 12 submenu, two ordered controls, whole 1-30 minutes/default10
+Lobby Timer UI: fixed source preview ten vs live duration; preview alone never applies
+Lobby Timer reset: enabled same-value selection restarts fully; off selection stores only
+Lobby Timer lifecycle: one level record/activation-time client HUD cohort; allocate complete replacement first
+Lobby Timer wait: full source seconds after setup; no stored derived deadline or enabling-owner/grant cache
+Lobby Timer expiry: current admitted unique host, one existing canonical native end request, no retry
+Lobby Timer status: expired setting remains configured, error/submission shown without completion claim
+Lobby Timer cleanup: consumed handles, stale identity guard, notify last, independent game-end watcher
+Lobby Timer native HUD: installed 2679 seconds/one-argument setter; stock client timer metadata
+Lobby Timer adaptations: lower-left native HUD replaces BO3 LUI; IW7 host_end replaces BO3 forceend
+Lobby Timer clock: bounded conversion/integer overflow checks, per-duration admission, clearable off/repair
+Numeric choice maps: one normalized whole-number value key, catalog gate before lookup; string/no-map paths retained
+Host resolver: one shared context implementation; native-player fixture shared across two real test consumers
+Lobby Timer GSC contracts/native HUD readbacks: COMPILED AND RETAINED, NOT EXECUTED
+Lobby Timer timing/format/archive/respawn/joins/host handoff/native end/co-op: NOT RUN
+Doheart source: row 11 submenu and three ordered controls; all five style/text choices retained
+Doheart permission: source Co-Host/Host, current verification/private/full-roster admission without life gate
+Doheart defaults: missing fields captured only on entry; stored host text survives migration, live choice resolves fresh
+Doheart settings: unchanged selection no-op, off edits save only selected field, active edits allocate before replacing
+Doheart choice policy: shared GUI/callback reasons, no-op recovery and field repair; unsupported styles/Custom blocked
+Doheart UI: fixed first previews, saved values in actual footer, dead active_value removed
+Doheart native HUD: one global font element, source height/hidden restored with bounded native fontheight conversion
+Doheart animation: asymmetric 0.6 pulse, moving 2s/1.98 wait, synchronous 1s plus quarter-second fades
+Doheart random color: exact source integer-literal division retained; runtime coercion not established
+Doheart lifecycle: level-owned identity, allocate-before-retire, consume/destroy before notify, independent end cleanup
+Doheart partial scope: Pulse Effect and Type Writer unavailable; Custom uses the source keyboard
+Doheart GSC assertions, native field readback, timing/rendering/archive/joins/co-op: NOT RUN
+Newsbar source: row 10, six ordered messages, captured host copy and exact move/scale/wait sequence
+Newsbar native binding: global newHudElem (0x148) and positive CP examples; no client replicas
+Newsbar ownership: one level record, allocation before publish, partial-allocation rollback, stale-safe release
+Newsbar cleanup: consumed refs, source background/text order, notify last, independent game-end watcher
+Newsbar continuity: no menu/host-life/disconnect endon; no owner/grant/roster cache
+Newsbar GUI: role-first typed configured checkbox; no message/worker/native handle payload on rows
+Newsbar host identity: enabling resolves unique actual host after role/roster admission; configured off skips name lookup
+Newsbar adaptations: truthful verification/saved-control hint and explicit IW7 left/top origins
+Newsbar tests first: missing local provider rejected; reversed cleanup order regression caught before fix
+Newsbar GSC text/identity/denial/UI/page/native-pair contracts: COMPILED AND RETAINED, NOT EXECUTED
+Newsbar field readback, recipients/late joins, rendering/animation/archive/co-op: NOT RUN
+Newsbar constructor follow-up: source icon/font types, hidden false, font width/height metadata restored
+Newsbar font height: stock CP field admitted before both allocations; no guessed default or partial background
+Newsbar metadata contracts: authored first; missing source guard failed; compiled/retained, VM/readback/rendering NOT RUN
+Movement catalog: fixed Low Gravity/bg_gravity 200 and Super Speed/g_speed 500 only
+Movement startup: one immutable ID-keyed snapshot after private-map admission and before player menus
+Movement source behavior: baseline equality selects target; every other current value selects startup baseline
+Movement unknown/fixed point: no guessed defaults or late recapture; current checkbox remains visible
+Movement native evidence: official replicated float/int registrations and movement consumers pinned
+Movement type adaptation: exact float gravity preserves fractions; original integer semantics differ explicitly
+Movement speed provenance: native integer getter/internal snapshot, no arbitrary numeric request or narrowing
+Movement dispatch: fresh Co-Host/Host role/read/next-value preflight, one write/readback, no worker or automatic reset
+Movement GUI: ID-keyed array, live current and exact next value, no baseline/command payload on rows
+Movement simplification: duplicate labels/wrapper/baseline writer and unreachable value recheck removed
+Movement initialization contract: own configuration temporarily replaced/restored; no native setter path
+Movement GSC assertions, native getters/effects, replication and co-op: NOT RUN
+End Game evidence: installed base+patch 2641/2645 registrations, wrapper ABI, marker5 and terminal order
+End Game numeric token: official compiler _id_ parser and candidate far function/field call inspected
+End Game admission: fresh Co-Host/Host/full roster, playing/nonterminal, exact callback, typed reason/registry/clock
+End Game dispatch: one zero-arg level-owned native wrapper; native duplicate guard before yield
+End Game GUI: source final row, lobby request, no checkbox/native pointer/roster payload
+End Game native ownership: no manual terminal/audio/profile writes, pending cache or direct exit substitute
+End Game GSC assertions, native terminal/audio/score/achievement/timing and co-op: NOT RUN
+Auto-Revive configuration: one level token, no enabled-bit/owner/grant/roster cache
+Auto-Revive loop: fresh current roster, source wait 0.1, canonical guarded native request only
+Auto-Revive lifetime: menu close/host down do not retire it; temporary native/roster rejection pauses
+Auto-Revive off: available during native pause; exact-token clear before stop notification
+Auto-Revive cleanup: unsupported session/game-ended guard and independent game-end token retirement
+Auto-Revive status: configured checkbox and native pause; no claim of completed revives
+Timescale choices: exact ten half-steps 0.5-5.0; strings/between-step requests rejected
+Timescale dispatch: fresh authority, unchanged no-op, one direct dvar write, float readback
+Timescale native evidence: official replicated-float registration and GetDvarFloat table pinned
+Timescale GUI: live float separate from unapplied preview; unmatched fresh preview 1x
+Server simplification: single-use snapshot wrapper removed; no new worker state cache
+Server contracts/reviews: tests first, two independent source reviews, compiled/static guards PASS
+Server GSC assertions, native speed/revives, joins/host down/cleanup and co-op: NOT RUN
+Player damage callback: twelve arguments compared with two blob-verified native modules
+Player damage delegation: all twelve values retained in compiled order, one original method-pointer call
+Explosive protection: native classifier after session, setting and defined-means gates
+Explosive protection UI: original personal Basic Scripts row and hook-loss cleanup
+Damage/classifier contracts: COMPILED AND RETAINED; behavioral execution NOT RUN
+DJ parts: one catalog/provider and row for parent and native fetch-stage entry points
+DJ progress: complete typed native flag count; malformed flags unknown; collected slots need no deleted models
+DJ preflight: whole pending target set admitted before one native callback; no usable malformed prefix
+DJ native boundary: actual private living host/full roster, real models, native interaction/effect/flag readiness
+DJ source evidence: installed base+patch DJ plus analytics 3397/2635 and icon helper bytecode
+DJ collection: one zero-argument level native call preserves slot-zero attribution, cleanup, icons and normal rewards
+DJ simplification: old quest part helpers/readiness aliases removed; no worker or cached completion
+DJ GSC assertions, native model/actor ABI, pickup/effects/rewards and co-op: NOT RUN
+Turn On Power: first Spaceland row, native living host, dynamic complete generator list
+Power source evidence: installed base+patch 3409/2649 and auxiliary currency/gesture bytecode
+Power metadata: dense unique registry, exact zero-cost callback and real native handles before input
+Power dispatch: fresh whole pending-list actor/point/purchase gates before each native commit
+Power sequence: stock latch/wrapper, level callback, stored return receipt before next generator
+Power lifetime: menu closure does not cancel native work; changed admission stops future submissions
+Power checkbox: native per-point powered counts, all-on disabled; no native progress or geometry writes
+Power GSC assertions, native callback/animation/timing, partial outcomes and co-op behavior: NOT RUN
+Perk temporary inventory: global GNS, teardown and keep_perks preservation markers block immediate changes
+Perk native evidence: installed base+patch GNS/perk bytecode confirms snapshot/restore and repeated-worker path
+Perk temporary consequence: source-derived duplicate worker risk; not reproduced in the game
+Perk boundary: complete actor/life/temporary/inventory admission and per-call revalidation
+Perk UI: admitted Perk Menu target and lobby roster use canonical typed preflight reasons
+Perk model simplification: duplicated personal life/inventory rules removed; no new mode bit or queue
+Perk checkmarks: actual native inventory remains visible during temporary ownership
+Retain Perks: setting remains configurable; shared setter can reject restoration during temporary ownership
+Perk temporary assertions, restoration timing and native/co-op effects: NOT RUN
+Perk preservation evidence: installed base+patch 3419 delayed set callbacks before flag clear
+Perk preservation lifetime: solo death OR revive can set marker; exact active window is not inferred
+Perk preservation admission: fresh whole-selection and per-call gate, existing arcade reason precedence
+Perk preservation UI: another-spawn warning, native ownership visible, future retention independent
+Perk preservation restriction: may remain blocked until another native loadout, potentially rest of life/match
+Perk preservation simplification: one added marker in existing shared policy; no new state/worker/hook/timeout
+Perk preservation contracts: authored first; missing guard and reason checks failed before respective fixes
+Perk preservation assertions and native revive/respawn/co-op behavior: NOT RUN
+Demi-God: original personal second Basic row with saved intent and hook/FX readiness
+Demi-God enabling: current actor/roster and fresh hook/effects before God Mode clearing
+Demi-God off transition: remains available after hook or FX loss for current players
+Demi-God feedback: exact victim/vector global callback and two native CP method helpers
+Demi-God inputs: missing/nonvector direction skips feedback while damage stays blocked
+Demi-God source: pinned HUD/FX/init/utility blobs and helper token IDs checked
+Demi-God health writes, guessed effects, flash-bit thread and extra worker: ABSENT
+Demi-God assertions, native presentation/ABI, co-op and lifecycle acceptance: NOT RUN
+God Mode fresh selection: actual-player gate before hook inspection and flag executor
+God Mode lobby snapshot: invalid data unchecked before flags; Co-Host role denial preserved
+God Mode scalar selections: separate GSC contracts; game execution NOT RUN
+Movement Speed: original Basic Scripts row, numeric range/default and half-second cadence
+Movement Speed dispatch: permission, value and actual actor admitted before replacement
+Movement Speed worker: one native setter site, current session check and owned stop lifetime
+Movement Speed UI: configured scale/Unknown separate from preview; read-only rendering
+Movement Speed native range, timing, respawn/arcade and co-op acceptance: NOT RUN
+Invisibility: source Basic Scripts row and personal saved-flag toggle
+Invisibility binding: native player-specific method IDs and player call sites checked
+Invisibility dispatch: fresh permission and actual actor before flag/native command
+Invisibility native branches: one playerhide or playershow, no wait or worker
+Shared Basic target snapshot: movement/invisibility/HUD/jump/sprint-fire; old alias absent
+Basic target read order: movement/visibility/HUD/jump/sprint-fire/explosive protection reject before settings
+Basic rejected presentation: unchecked toggles and Unknown movement; saved target state preserved
+Basic admission regressions: full-page scalar target with stale/unauthorized/missing/malformed reason
+Basic admission source and emitted-bytecode order: PASS; GSC assertions NOT RUN
+Flight source audit: player link/parent identity and wrapper method namespaces source-supported
+Flight ownership blocker: direct Spaceland grenade offhand lock bypasses wrapper counters
+Flight spawn cleanup: primary/offhand reset differs from retained shield counter; native timing untested
+Flight production worker, draft tests, anchor, lease and menu-input edits: NOT INCLUDED
+Invisibility model/attachments, native-mode overlap and co-op acceptance: NOT RUN
+Modify Score: thirteen original strings, Basic/living Quick personal source positions
+Modify Score dispatch: permission, selection, actor/session and native balance/cap admission
+Modify Score arithmetic: integer normalization, bounded delta/clear and no-op setter skip
+Modify Score native helper exports/token IDs and setter body: CHECKED
+Modify Score UI: captured live balance separate from preview; invalid snapshot unavailable
+Modify Score reward/purchase calls, native cap/profile writes or invented notify: ABSENT
+Modify Score GSC assertions, native effects, HUD refresh and co-op acceptance: NOT RUN
+Disable HUD: original personal Basic row, saved intent and shared actor snapshot
+Disable HUD binding: blob-verified native Boolean schema, player caller and UI consumer
+Disable HUD dispatch: permission and actual actor before flag and one per-client setter
+Disable HUD global writes, worker or getter claims: ABSENT
+Disable HUD GSC assertions, full HUD coverage and menu usability: NOT RUN
+Multi-Jump: original personal Basic row, release sequence and additive 250-Z impulse
+Multi-Jump input: per-player paired command pattern and native method IDs: CHECKED
+Multi-Jump observer: owned captures armed before once-per-player command registration
+Multi-Jump worker: actor/session/flag/input and source life rule before one setter
+Multi-Jump source held/outer cadence and pending-release landing edge: RETAINED
+Multi-Jump physical host-key polling, native-mode or position writes: ABSENT
+Multi-Jump exact release event, GSC assertions, movement and co-op acceptance: NOT RUN
+Shoot While Sprinting: source personal row and canonical CP presence/grant/remove helpers
+Shoot While Sprinting native helper blobs/tokens and Racing Stripes caller: CHECKED
+Shoot While Sprinting UI: configured mirror and shared machine-effect explanation
+Shoot While Sprinting extra flag, direct native setter or machine inventory writes: ABSENT
+Shoot While Sprinting GSC assertions, native-bit parity and co-op acceptance: NOT RUN
+Message Menu: source root/order, preset titles and owner-scoped Verified navigation
+Message display: Notify default; Print Bold supported; shared selected-choice gates
+Message presets: original text/credits, current cleaned names and stable selectors
+Message host: exactly one current native host after complete actual-roster admission
+Message dispatch: fresh actor/session/access and mode/name resolution before one global builtin
+Message native source and global iprintlnbold 0x0FA mapping: CHECKED
+Message unsupported Notify and BO3 glyph delivery: BLOCKED
+Message queue, profile writes and external messaging implementation: ABSENT; keyboard owns a temporary client HUD pool
+Message GSC assertions, native display/formatting, co-op and GUI acceptance: NOT RUN
+Restart Full/Fast native distinction and private Zombies caller: UNRESOLVED; row remains unavailable
+Power-Up Menu: original controls/separator and nine cp_zmb normal-drop IDs in order
+Power-Up sources: pinned raw loot/zone exports and Spaceland CSV blobs/tokens checked
+Power-Up map gates: live dense membership, indices, icons, loaded FX and item callbacks
+Power-Up dispatch: fresh actor/host/roster, trace/navmesh/exclusion/active-area admission
+Power-Up trace: original none/default and IW7 surface aliases rejected
+Power-Up native packet: one six-argument drop; attribution/quota unset, cooldown enabled
+Power-Up native result: creation only; pickup/FX/expiry remain on the native path
+Power-Up UI: owner setting/preview distinction, host-only drops and no cached row origin
+Power-Up card activation, native counter writes and duplicate cleanup: ABSENT
+Power-Up GSC assertions, GUI, pickup/effects, expiry and co-op acceptance: NOT RUN
+Cabinet hold sources: pinned raw activation/card blobs and Use method ID checked
+Cabinet hold scope: exact initial or observed retry registration and normal marker origin
+Cabinet hold roster: complete actual players before one per-player native Use query site
+Cabinet hold predicates: native blocker order, inclusive 3D 50-unit radius and unknown data
+Cabinet hold UI: owner-bound navigation, per-player blockers and one sampled passing count
+Cabinet hold completion: existing native receipt only; two-scan hold is not inferred
+Cabinet hold native state/input writes, hooks, movement and worker: ABSENT
+Cabinet hold GSC assertions, GUI refresh, deletion semantics and co-op acceptance: NOT RUN
+Custom Crosshairs: personal Basic source position and ordered text choices checked
+Crosshair dispatch: fresh authority, actor/session and current-name choice admission
+Crosshair resource: one text/handle record; update in place or allocate before replacement
+Crosshair lifetime: stale retirement identity, menu-close persistence and owner teardown
+Crosshair color: target static accent/shared rainbow, 10ms worker and no redundant writes
+Crosshair UI: saved text separate from preview, missing handle and visibility confirmation
+Dynamic slider regression: one read-only clamp shared by render, selection and scrolling
+Crosshair GSC assertions, native HUD display/lifetime and exact visual parity: NOT RUN
+Teleport Menu: source choice order, owner aim, Sky offset and exact remote directions checked
+Teleport native bindings: origin/view method IDs, real-player callers and raw permission helper
+Teleport dispatch: fresh complete roster before permission and current movement-owner gates
+Teleport random peer: finite eligible list, deduplicated membership and one bounded selection
+Teleport save/load: complete origin/angle record published before later paired restoration
+Teleport UI: reason-only page snapshot, default preview and no persistent active-mode claim
+Player navigation: source14row Options restores Verification, Basic and Teleport links
+Player navigation contracts: Main/Players/Options/Teleport and back-target transitions retained
+All Players Teleport: source second-row Self/Crosshairs/Sky slider and Co-Host-scoped callback
+Lobby Teleport selection: current host excluded; user-confirmed removal of fixed developer-ID exemptions
+Lobby travel preflight: actual owner and full roster before native state; every recipient ready before first move
+Lobby travel choice reasons: requester pause blocks Self/Crosshairs; recipient-origin Sky stays available
+Lobby travel writes: canonical personal helpers recheck current remote authority and movement per recipient
+Lobby movement rejection: stops further recipients; prior moves remain applied; no rollback claim
+Shared non-host selector: one actual-host resolver and canonical ordered reference selector for Down/Revive/Teleport
+Lobby travel UI, GSC assertions, native batch movement and co-op scheduling: NOT RUN IN GAME
+Teleport native locks/state writes, force unlink and guessed arrival effects: ABSENT
+Shared roster membership regression: missing/non-array input rejected before iteration
+Teleport GSC assertions, landing/collision, view restoration and co-op acceptance: NOT RUN
+Teleport Gun: source personal row, payload-free weapon_fired and selected firing-player aim
+Teleport Gun grant: one owner record, fresh configure/shot authority and idle supervisor
+Teleport Gun cancellation: expected-record guard, clear before record-scoped stop notification
+Teleport Gun receiver: one documented IW parent-owned childthread, no per-shot job or queue
+Teleport Gun UI: actor admission before record read; saved intent and current pause separate
+Teleport Gun lifetime: unsupported-session/disconnect/game-end release; menu close/death retained
+Teleport Gun GSC assertions, fire timing, stop races, movement and co-op acceptance: NOT RUN
+Speaker target field: pinned source dump plus separate token/builtin namespaces and candidate opcode guarded
+Speaker target field in installed Steam FastFile and Aurora spelling disagreement: UNVERIFIED
+Save & Load Position: source personal toggle and selected-player held Action Slots 3/2
+Shortcut input: Save then fresh Load sample; 50 ms per-action waits plus shared 50 ms poll
+Shortcut menu ownership: open or pending main/quick menu suppresses each input phase
+Shortcut worker: current-record and shared requester authority/exact-grant checks before each phase
+Shortcut cancellation: clear before own-record stop; saved location and independent gun preserved
+Shared continuous-travel grant: actor/roster authority before menu access and exact grant
+Shortcut movement: canonical complete save/load and native travel gates; no second position record or setter
+Shortcut positive held input, native movement, live co-op and game-VM assertions: NOT RUN
+Official Spawn Points: full native player_respawn_loc registry, exact dense order and typed vectors
+Official spawn capture: stable point-reference list, no active-subset filter or cached coordinates
+Official spawn action: captured numeric index, fresh authority/current identity and live origin/angles
+Official spawn UI: default0 slider, conditional known-empty omission and pending explanation
+Official spawn native respawn-only geometry policy and direct native state writes: ABSENT
+Stable-page selection: label and actor retained; conditional rows and duplicate-name contracts
+Official spawn GSC assertions, actual map counts, movement and co-op acceptance: NOT RUN
+Entity Teleports: selected native Mystery Wheel and ten catalog perk-type registries
+Entity selection: fresh wheel-array membership, selected area and exact kind/ID/point revalidation
+Entity geometry: source wheel/perk opposite right-vector offsets and origin+55 facing retained
+Entity writer: one shared origin setter, actual post-move eye before optional view setter
+Entity UI: original navigation/target, explicit pending/empty reasons and blocked payload omission
+Entity cursor: same-label machines retain their native point through stable-page rebuilds
+Entity page work: shared movement-only probe without peer scan or saved-location lookup
+Entity activation/purchase, native progress writes, guessed front vectors and arrival FX: ABSENT
+Entity GSC assertions, native orientation, landing, Fire Sale and co-op acceptance: NOT RUN
+Player Down: original personal Death/lobby Down positions and native two-argument damage ABI
+Player Down admission: complete actual roster, current membership, life/laststand and bounded health
+Player Down request: fresh per-target admission before clearing menu God/Demi flags and one damage site
+Lobby Down policy: only current native host excluded; included Co-Host requester; no fixed developer IDs
+Zombie Movement: source index9/four choices, Walk/Run/Sprint mapped, Super Sprint unavailable
+Zombie Movement field: token01F5 movemode, separate from the synctransients function namespace
+Zombie Movement admission: actual current agents, initialized native tuning/ASM/blackboard and state guards
+Zombie Movement requests: per-target fresh host/roster/life/state before one mode store/native request pair
+Zombie Movement UI: shared snapshot gate, no cached actor payload or global active-mode claim
+Zombie control context: one host authority and owned result constructor shared by Death/Movement
+Zombie Movement direct health/rate/lock/quest writes, recurring worker or spawn policy: ABSENT
+Zombie Movement GSC assertions, native acceptance/retention and co-op behavior: NOT RUN
+Player Down result: submission only; native shields and revival own the actual effect
+Kill: visible unavailable choice plus independent exact-Down callback gate
+Slider choices: one string-mode gate shared by Use, footer and label/value dimming
+Slider compatibility: no-map numeric behavior retained; fractional-key draft test removed
+Teleport choice gates: blocked aim/peer previews do not disable ready Sky
+Player Down and slider GSC assertions, native effects/HUD/input and co-op acceptance: NOT RUN
+Co-Host player controls: rank5 opens current non-Host personal Basic/Teleport/Fun controls
+Co-Host selected Host: blocked in roster, Options, navigation and execution
+Co-Host lobby scope: source God/Down/Revive/Teleport; appended bulk extras remain native-host-only
+Lobby God Mode: actual host remains a recipient
+Lobby Down/Revive/Teleport: unique actual host excluded; Co-Host requester included
+Lobby Crosshairs: other recipients keep their order; requester moves last without cached aim
+Lobby authority: fresh requester/recipient/host checks before each canonical submission
+World authority: old context unchanged except unused personal-reason wrapper removed
+Verification GUI: native-host gate before selection and role reads; Co-Host assignments disabled
+Captured roles: one roster role list drives labels and verification; duplicate target role removed
+Stale-target regression: current membership rejection before native target host query
+Co-Host simplification: no extra privilege bit, copied native writer or test-only membership parameter
+Co-Host GSC assertions, native authority changes, grants, co-op and host migration: NOT RUN
+Menu verification: eight source roles and five assignable session-only levels
+Menu verification native identity: blob-verified isbot caller and native host binding
+Menu verification grants: full actor/roster/host/string admission, protected and no-op rejection
+Menu verification setter: one changed grant write followed by one target message
+Menu verification lobby: same per-player setter, complete typed snapshot and no target dependence
+Menu access: Verified threshold before input/open/select/hold resume and queued callback
+Menu access changes: both histories and HUD/editor retired; captured role/grant mismatch rejected
+Menu access and host-applied effects: distinct authority; recipient menu access not required
+Speaker target binding: installed base+patch DJ/agent raw field token 0x0000012E established
+Speaker native field sites: DJ assignment/retarget and agent self read/clear match favoriteenemy mapping
+Speaker extraction: seven executed work-only Python contracts PASS; no production GSC change required
+Speaker runtime effects, callback scheduling and co-op quest progression: NOT RUN
+Freeze follow-up: installed 3260 pointers and 3411 temporary cryo flags/timer/default thaw confirmed
+Freeze g_ai registration/consumer and persistent reversible toggle: UNRESOLVED; row unavailable
+Menu Main: source tier groups, Co-Host player pages and native-host world visibility
+Player headers: captured [access] plus canonical cleaned name; unnamed/pending fallback
+Player selection: stable reference key before mutable label, with actor match retained
+Teleport Gun revocation: requester access and grant before idle continuation and each shot request
+Verification persistence, native messages/roles, revocation and co-op acceptance: NOT RUN
+Zombie Options: thirty source Spaceland rows, Kill at7 and unresolved Freeze at18
+Zombie Kill: source four modes/default; only Death passes input and callback guards
+Zombie Kill probe: current living-host/actual-agent checks before shared typed target policy
+Zombie Kill amount: safe signed integer health+666 and rounded-float boundary contracts
+Zombie Kill pass: detached list; fresh authority/life/protection/current membership per packet
+Zombie Kill native packet: one five-argument host-attributed damage site; submission-only result
+Zombie Kill deletion, repeated worker, quest/wave/death-counter writes: ABSENT
+Shared zombie targets: one canonical selector for wave, dance and current-pass Death
+Shared target regressions: malformed containers/callbacks/fields rejected before reads
+Native source alias audit: no speculative zombie/perk module rename shipped
+Zombie Kill assertions, hits, clown effects, scoring/quests and co-op acceptance: NOT RUN
+Freeze follow-up: no new reversible native contract; source row remains unavailable
+Local declared function references: PASS, 12105 references
+Contract suites wired exactly once: PASS, 172 suites
+Explicit test check sites retained in normal bytecode: 4928 / 4928
+Failure counter and failure-print branch retained: YES
+All 36 palette names, order and RGB triples match the reference source: YES
+Applied settings feed the shared HUD row-style and capacity functions: YES
+Owner authorization precedes visual preference application in bytecode: YES
+Native encoded quest and portal field IDs preserved: YES
+Ammo owns GSC first-event receipt and parent-scoped child refresh listeners: CHECKED
+Ammo named-mode and whole-selection preflight before worker or setting changes: CHECKED
+Ammo one personal/lobby setter and fresh authorized dispatch selection: CHECKED
+Ammo invalid/empty lobby mode display, guest denial and shared actor snapshot: CHECKED
+Ammo startup contracts: each event sent without setup wait; first-event pair sent back to back
+Ammo parent cancellation contract: bounded test child-entry handshake; late test children reject entry after cancellation
+Ammo startup/cancellation contract compilation and retained bytecode: CHECKED
+Ammo native settings/refill/lifecycle behavior and GSC assertions: NOT RUN
+Remaining utility declarations/blob check and removal of disputed helper imports: CHECKED
+Revive raw helper, map callback and source pointer/owner fields: CHECKED
+Revive fresh actor/roster/context/native-life and same-model admission: CHECKED
+Revive custom submitted marker precedes one native request site: CHECKED
+Revive source row positions, host scope, pending and missing-data copy: CHECKED
+Revive direct native life/progress/weapon/credit writes or forced spawn: ABSENT
+Revive event delivery, native exit, concurrency and co-op/GUI acceptance: NOT RUN
+Tone readiness guard precedes the native note callback in bytecode: YES
+PAP actor, unlock and route guards precede the native callback in bytecode: YES
+Portal pending outcome and its separate UI message retained: YES
+Side worker has one trigger-notify site after listener/final gate checks: YES
+Side adapters contain no direct travel/progress/position field assignments: YES
+Bomber roster refresh and native identity/life guards precede DoDamage: YES
+Bomber worker has one five-argument native damage site: YES
+Bomber native health/counter assignments, forced death notifications/deletion: ABSENT
+Bomber 120-second bound and 0.25-second poll retained in bytecode: YES
+Grey listener arming precedes fresh authorization/actor/fuse guards: YES
+Grey worker has one five-argument melee site and one guarded body-damage site: YES
+Grey post-arm selected-fuse definition and idle regen-cap guards retained: YES
+Grey removal observation and all normal-path ticket cleanup retained: YES
+Grey direct health/fuse/regen writes or forced native callbacks/events: ABSENT
+Grey 300-second job and 1.5-second confirmation bounds retained: YES
+Grey native initial spawn return precedes full-fight readiness: YES
+Grey zero-argument native event wait and owned callback restoration retained: YES
+Grey full/fuse-only modes share one reservation, status and cancellation: YES
+Grey native body-damage gate and post-batch 250-ms cooldown retained: YES
+Dropped-fuse source model/first-spawn selector comparison: PASS
+Dropped-fuse worker has one trigger after native-success/current-model checks: YES
+Dropped-fuse submitted history is stored before the trigger: YES
+Dropped-fuse direct inventory/list/quest assignments or model deletion: ABSENT
+Dropped-fuse five-second bound and 0.05-second poll retained: YES
+Native PAP actor/helper/admission/dual-lease gates precede commit: YES
+Native PAP wrapper effects precede its single insertion callback: YES
+Native PAP callback returns before owned lease release and confirmation: YES
+PAP cycle listeners use a startup guard and no timed wait between events: YES
+PAP direct native counter/inventory/interaction-list assignments: ABSENT
+Shared rainbow brightness/hue-step/cadence and game-end cleanup retained: YES
+Native FadeOverTime and requested-color target guard retained: YES
+Node weapon, live asset, exact point and durable claim precede native damage: YES
+Node worker has one six-argument native damage site: YES
+Early node history has one damage wait and no timed rearm gap: YES
+Node history deliberately avoids mutable attacker qualification: YES
+Node exclusion checks every explicit node index, without sparse-size assumptions: YES
+Native charged-node readiness evidence is required before starting input: YES
+Node direct native activation/health/quest writes or forced WMD calls: ABSENT
+Quick Exit resume guard precedes navigation after its yielding hold: YES
+Soul Key unique source asset/origin and completion-callback binding: PASS
+Soul Key native-success/current-receipt checks precede its one trigger: YES
+Soul Key submitted history is stored before input and retained after cleanup: YES
+Soul Key direct profile/achievement writes, model deletion or quest writes: ABSENT
+Reward-page gate precedes current-roster profile reads and live model scans: YES
+Width Editor owner/session admission precedes active modal state: YES
+Width Editor normal-render suppression precedes HUD redraw: YES
+Width Editor scales visible design-specific native HUD pieces without sleeping workers: YES
+Width Editor source bottom-line inset and applied title/value reflow retained: YES
+Reposition uses one canonical editor record and translates the entire HUD pool: YES
+Reposition source geometry, slot priority, native offhand/frag and cadence retained: YES
+Five-design selector names and order compared with source: YES
+One role plan drives HUD allocation, normal redraw and both editor modes: YES
+Design-specific color caches, row/counter positions and source restrictions: CHECKED
+Native/Classic title/counter and AIO modal outer/name geometry: CHECKED
+Native five-design rendering, font/safe-area and animation acceptance: NOT RUN
+Opening rows: pinned source main/Quick opening, visible-index timing and native fade method
+Opening pool: row objects hidden on creation; only active visible option elements fade
+Opening packet: explicit open-only flag separate from existing scroller animation
+Opening opacity: disabled/blocked final alpha derived before one write per row element
+Opening main delay: 50 ms, then fresh access and exact grant before HUD allocation
+Opening passive refresh: shared timing function and fresh clock after opening
+Opening workers, persistent fade state and duplicated row geometry: ABSENT
+Opening GSC assertions, native interruption/interpolation, rapid input and visual acceptance: NOT RUN
+Cursor scale: original Large Cursor targets and two pinned native HUD method callers
+Cursor scale timing: admitted up/down and one-row shifts use applied Scroll Animation Time
+Cursor scale redraws: one requested target per slot; unchanged targets skip native field writes
+Cursor scale native call: positive changed duration before both text-scale assignments
+Cursor scale viewport shifts: retained groups animate; incoming group initializes immediately
+Cursor scale workers and cached native getter values: ABSENT
+Cursor scale assertions, native interpolation/interruption and visual acceptance: NOT RUN
+Viewport ownership: current visible groups and a temporary fading outgoing edge
+Viewport admission: fresh row identities/count, canonical windows, long-page wrap exclusion
+Viewport order: rotate references before colors; retained groups keep their option identity
+Viewport native movement: positive MoveOverTime before changed Y; no move worker or wait
+Viewport opacity: three canonical targets for label, value and the shared checkbox pair
+Viewport lifecycle: fixed registry plus current row traversal for cleanup/translation; modal releases rows
+Viewport incoming edge: fresh hidden native group; prior outgoing group released before allocation
+Viewport retirement: positive-duration wait followed by exact live-spare guard; zero duration synchronous
+Viewport release: idempotent, invalidates timers before destroy and clears canonical ownership
+Option redraw: release active rows before fresh allocation; outgoing fade keeps its timer
+Option modes: opening/redraw replace; cursor retains eligible groups; update retains matching identities
+Option timer: bool redraw starts at selection, waits 180 ms independently of callback completion
+Option input cadence: bool delay plus source post-wait/poll totals 430 ms; other commands unchanged
+Option timer gates: current access, original open session and page before redraw
+Option theme step: old row snapshot retained until bool redraw; passive deadline held through delay
+Option page callback: captured page/session gate suppresses redundant completion render
+Option simplification: row_pool_size removed; visible group count drives rotation and rainbow traversal
+Option cleanup simplification: unused hide_row/cache-reset API and contracts removed; one alpha-only writer
+Full-HUD reopen: changed Design, Option Counter and Stealth clearing an active counter use animated main reopen
+Editor exit: full main HUD recreate without row opening fades, followed by source 100 ms hold
+Opening ownership: cancellable pending request, one allocator, exact session/page/target/role/grant after delay
+Opening interruption: close cancels before open-state guard; pending allocation suppresses input commands
+Opening target policy: fresh opens may reset stale navigation; reopens preserve exact state or cancel
+Delayed redraw ownership: original exact HUD required; successful Counter/Stealth callbacks retain only their own request
+Full-HUD reopen assertions, native destruction/scheduling/fade and co-op acceptance: NOT RUN
+Conditional option allocation: present-role map for label/value/Boxes/Text/Text Color
+Blank spacer lines: source predicate, centered width-minus60 geometry and initial alpha0.4
+Spacer styling: opening row target, entering0.4 and retained prior alpha; named theme0.5 / rainbow direct
+Retained role shape: future-index check before native rotation/allocation in both directions
+Optional ownership: one actual handle map for move/style/scale/cleanup/translation; font scale is text-only
+Conditional role/spacer GSC assertions and native visuals/destruction: NOT RUN
+Directional spacers: half-scroll pending geometry followed by final selection or source redraw exception
+Scroll guards: exact open/session/page/target/HUD/cursor and ordered row objects; fresh access/grant/life/context
+Scroll safety: bounded plan; all-blank short pages have no writes/waits; short wraps use defined start zero
+Input cadence: fresh clock after the synchronous scroll flow; cancelled plans skip stale passive refresh
+Outgoing lifetime: active redraw preserves the existing spare and retirement timer
+Spacer GSC assertions, native wait/rendering/destruction and co-op acceptance: NOT RUN
+Viewport passive refresh: unchanged target suppression plus deadline after actual scroll duration
+Viewport GSC assertions, native timing, interruption, co-op and visuals: NOT RUN
+Cursor visuals: source timing plan for cursor, opening, incoming, theme and rainbow
+Cursor native writer: one FadeOverTime site; immediate properties before, timed properties after
+Cursor target caches: shared text/fill colors and three opacity targets updated after all elements
+Cursor incoming style: new native handles and target caches; immediate colors precede opacity fade
+Cursor alpha-only mode: undefined style skips color state; outgoing fade preserves color targets
+Rainbow sampling: cached alpha with zero durations; starts after first row render
+Chrome passive refresh: requested role alpha prevents unchanged writes during color fades
+Obsolete sync_alpha, sync_colors and write_color menu APIs: REMOVED
+Cursor visuals native evidence: consistent self receiver; edited var_02/var_2 block REJECTED
+Cursor visuals assertions, native fade composition/interruption and final fidelity: NOT RUN
+Opening command catalog compared directly with source: 13 commands in order
+Binding callbacks authorize owner and reject stale menu/slot before apply: CHECKED
+Atomic chord proposal and saved-array input/instruction bindings: CHECKED
+Native physical-key lookup/polling shape and removal of event trackers: CHECKED
+Custom chord native key/controller/co-op acceptance: NOT RUN
+Settings codec/chord validation before exposing restored layout: CHECKED
+Stealth UI source controls: five rows, Boxes to Text, no counter, no automatic preference restoration
+Stealth UI choice admission: owner-scoped row and fresh callback restrictions agree
+Stealth UI viewport: five-row row-pool rotation, wrap and spacer contracts compile
+Settings: canonical v3/24 fields; exact v1/v2 migration preserves prior Stealth behavior
+Stealth archive behavior: existing archived=false retained; positive state and native pool cap UNVERIFIED
+Stealth UI contracts, native rendering, reopen scheduling and settings persistence: NOT RUN IN GAME
+Menu Instructions: source-ordered six controls and owner/session-bound callbacks
+Persistent guide: separate role-map ownership; close keeps it; disable/access loss/disconnect/end release it
+Instruction geometry: source width estimates, alternate anchors, five adaptive offsets and position reset contracts
+Instruction controls: fixed 8-pixel movement, 100 ms entry/exit settles, source 25 ms movement polling
+Instruction exit: current access plus exact editor, session, HUD, page, role and grant rechecked after wait
+Instruction capacity: shared 5/8/9/10/11/12/14 row-pool, wrap and spacer contract matrix
+Instruction input mode: usinggamepad 0x83D8 pinned raw utility and compiler method evidence
+Instruction settings: signed X/Y and four canonical flags appended; Alternate plus Adaptive rejected
+Instruction worker, GSC assertions, glyph/font geometry, dead visibility and native runtime: NOT RUN IN GAME
+Native per-XUID key guards, one record write and immediate readback order: CHECKED
+First-spawn or already-alive startup load before polling: CHECKED
+Accepted-change saves and editor-exit-only save: CHECKED
+Native Dvar/XUID semantics and map/reconnect/application durability: NOT RUN
+Dead fixed ADS+Jump, alive custom opening and dead Jump back paths: CHECKED
+Quick state identity permits nested dead pages; main closes on death: CHECKED
+Life row rebuild preserves selected label and advances refresh deadline: CHECKED
+Exact live/dead host/guest row sets and personal perk life readiness: CHECKED
+Original native-life/session-state predicate shared by UI and perk batch admission: CHECKED
+One fixed dead chord feeds both input matching and displayed instructions: CHECKED
+Native dead/spectator input, HUD visibility and life transitions: NOT RUN
+Game-VM check execution: NOT RUN
+Equipment nine grenade IDs compared with native map registration: PASS
+Equipment current unique primary/registry/weapon/permanence selection: CHECKED
+Equipment live actor/life/mode/ownership/below-cap gates before native recharge: CHECKED
+Equipment worker replacement, stop/game-end endons and 0.1-second poll: CHECKED
+Equipment personal/Quick/lobby settings, scope and read-only checkmarks: CHECKED
+Equipment shared read-only readiness probe and fresh Ready-only native refill: CHECKED
+Equipment page-gated personal/lobby snapshots and unknown/guest copy: CHECKED
+Equipment secondary ticket/craftable/removal audit: NO SUPPORTED PATH ADDED
+Shared actor validator has one runtime implementation and no obsolete perk alias: CHECKED
+Equipment native charge/weapon/HUD/cancellation/respawn and co-op acceptance: NOT RUN
+God Mode current flags, fresh dispatch roster/hook and shared mutation admission: CHECKED
+God Mode checked off action remains available after hook loss in both scopes: CHECKED
+God Mode unchecked/mixed enable rejection, empty roster and host precedence: CHECKED
+God Mode GUI distinguishes saved flags from confirmed protection: CHECKED
+God Mode native hook replacement, protection and co-op/lifecycle acceptance: NOT RUN
+Ghosts seven callback registrations and ten skull positions vs native source: PASS
+Ghosts stage/living-host/unique-model/sightline gates precede one view change: CHECKED
+Ghosts fresh dispatch probe and page-only model/sight capture: CHECKED
+Ghosts owned activation observer delegates native once with live session recheck: CHECKED
+Ghosts native zero-baseline failure and cumulative-wave display regressions: CHECKED
+Ghosts quest/activation/arena/result observations remain separate: CHECKED
+Ghosts native progress, callback scheduling, trace/view and GUI/co-op acceptance: NOT RUN
+Arcade result source: two pinned quest modules; five native IDs/order and ID-only payload
+Arcade history: early waiter readiness before native stage three; exact current entry/callback ownership
+Arcade event records: known stage-three IDs only, duplicate receipts counted once
+Arcade late/replaced history: Unknown; native quest advancement establishes Completed
+Spawn balloon source: native stage-zero targetname and scriptable origin read path checked
+Spawn balloon authority: current actual living host/private session and exact native stage
+Spawn balloon selection: complete plain records, exact current native object identity and fresh origin
+Spawn balloon GUI: owner-bound page, stable object key, no popped-state or completion claim
+Spawn balloon native effect: one view-angle request; no shots, damage, notifications or quest writes
+Spawn balloon GSC assertions, scriptable lifetime, angles and co-op/GUI acceptance: NOT RUN
+Ghosts schema: typed arrays and callback structs; bounded integer keys before indexing
+Ghosts schema regressions: malformed/fractional/unbounded values and normalized whole floats
+Ghosts invalid progress: activation-history reads blocked before stale receipt or registry access
+Arcade duplicate stage wrapper: REMOVED; observer uses canonical Ghosts reader
+Keyboard source: exact13x6 alphabet,45 cap, source priority and branch-plus-loop delays
+Keyboard source Frag Add Space: explicit user choice; native game input remains active
+Keyboard input: one controller sample, source mode-dependent horizontal rule using IW7 usinggamepad
+Keyboard lifetime: exact owner session/page/target/HUD/access/grant; current role and life admission
+Keyboard ownership:14 owned text handles or11 numeric handles; main scroller borrowed; detached key cleanup
+Keyboard regression: live-map cleanup and pre-render entry deadline failed guards before correction
+Keyboard entry:100ms source resize,10ms placement, then500ms input settle; no input before ready
+Keyboard cleanup: stale-safe release, own handles only, close/death/revoke through canonical HUD release
+Keyboard consumers: Custom Message Print Bold, Doheart Custom, selected-player and All Players Send Message
+Player-message recipient policy: selected current player or current roster except sender, including host
+Player-message native calls: current manager/membership checks before each per-player iprintlnbold
+Player-message state: no Message Menu mode change, queue, worker or native player-state write
+Player-message display, co-op delivery and GSC assertion execution: NOT RUN
+Keyboard native input flags/counters, extra workers and arbitrary callback payloads: ABSENT
+Keyboard usinggamepad vs GamepadUsedLast identity, GSC assertions, native rendering/input/grenades/co-op: NOT RUN
+Freeze follow-up: pinned loader registry autocomplete and bare-name read-only query path identified
+Freeze query interpretation: exact echoed name required; numeric fallback can resolve another Dvar
+Freeze runtime observation: no running IW7 process; existing log has no binding result
+Freeze registration, AI consumer, effect and reversible cleanup: UNVERIFIED
+UFO schema: pinned arrays, per-step structs, twelve registrations and first initializer
+UFO reader: typed containers, bounds before int conversion, fractions rejected before normalized lookup
+UFO final progress: flag-array shape checked before keyed completion read
+UFO GUI: invalid stage retains twelve unavailable unchecked rows with no callbacks
+UFO simplification: canonical reader retained; duplicate stage-zero shape check avoided
+UFO registry GSC assertions, installed fields, callbacks and GUI acceptance: NOT RUN
+Fun Scripts source: all 37 labels/order compared with pinned Apparition source
+Earthquake binding: exact source1/15/current origin/750 and IW7 global builtin0x05D
+Earthquake authority: current private actor/target, verification and VIP before origin capture
+Earthquake dispatch: authorized row then fresh probe before one global native request
+Fun navigation: VIP own page and Co-Host selected non-Host link; target/back scope retained
+Fun GUI: typed readiness/actor reason, nearby-player copy, no cached parameters or active checkbox
+Earthquake direct state stores/workers/HUD handles: ABSENT; timed native request has no delivery receipt
+Fun and Earthquake GSC assertions, actual denial, display/timing/reach and repeated/co-op requests: NOT RUN
+Fun admission: canonical actual-player/private/current-roster/verification/VIP policy for five features
+Fun worker grants: shared admission before original-reference comparison and Frog input reads
+Fun simplification: obsolete Frog authority helper/duplicate rank gates and unused probe state removed
+Rapid Fire audit: separate native bullet/attribution examples do not prove combined player weapon/muzzle/events
+Rapid Fire UI: source row31 unavailable with specific reason, no callback/checkbox/approximate worker
+Fun policy assertions, native positive/denied actors, co-op/host changes and Rapid shot behavior: NOT RUN
+Actor admission regression: indexed complete-list validation rejects missing numeric slots before isPlayer
+Actor roster evidence: stock append/compact-removal and numeric enumeration compared with pinned source
+Actor contracts: actual read-only native player; local sparse/named/malformed and dense duplicate lists
+Actor fixture readiness: bounded10s wait, explicit failure if absent; no roster writes or fake predicate
+Actor simplification: existing shared validator corrected; no new production API/state/helper
+Actor GSC assertions, fixture timing, native join/disconnect and co-op behavior: NOT RUN
+Fun scope audit: specific reasons retained for gravity/slick/gore/headshot-perk/pickup-magnet gaps
+Insta-Kill policy: preserve Brute/Grey protections, per user selection
+Enemy hook evidence: offline installed base+patch3260 exact field, full12 arguments and amount-return order
+Enemy archive checks: internal SHA-256 chain and bounded LZ4 decode; RSA publisher signature NOT verified
+Enemy bytecode roundtrip: decoded patch assembly identical; binary/container bytes differ
+Work-only archive reader Python regressions: PASS, four executed tests; no GSC/game execution
+Insta-Kill ownership: lazy exclusive optional slot, foreign callback rejected, release only owned pointer
+Insta-Kill configuration: one per-player mode/requester/grant; fresh authority before selected-target configuration
+Insta-Kill per-hit order: attacker record identifies requester; grant checked before target health/scaling
+Insta-Kill stale grant: saved intent remains inert until a fresh authorized mode application
+Insta-Kill UI: source seventh Fun slider, configured intent separate from preview, Disable after hook loss
+Insta-Kill native health/power-up/quest/reward writes, nested damage and manual kill events: ABSENT
+Insta-Kill GSC assertions, native self/damage/progression and co-op acceptance: NOT RUN
+Approximate global power-up/gravity, unknown perk and pickup mover substitutions: ABSENT
+Perk sounds source: first Sounds submenu, unique placed perk pairs, Jingle then Quote and sndDone order
+Perk sounds native evidence: ten alias mappings, roster solo rule, voice prefix and event-bearing player method
+Perk sound registry: full dense typed native groups before one plain entry per canonical placed perk
+Perk sound authority: shared Fun admission before roster size, current voice, registry and alias reads
+Perk sound dispatch: exact stable selectors, fresh readiness, notify then one player playSound call
+Perk sound GUI: source root4, target/back scope, independent alias reasons, malformed data blocks full list
+Perk sound state: no purchase/VO helper, currency/perk write, worker, playing checkbox or cached row alias
+Perk sound limits: original general dialogue categories unavailable; no verified IW7 category mapping
+Perk sound simplification: shared catalog reused, unused probe allocation and inert test sentinels removed
+Perk sound contracts: source added before implementation; absent inputs checked outside foreach
+Perk sound GSC assertions, native availability/audibility/events/repeated/solo-coop playback: NOT RUN
+Health Bar source: exact widths/colors/inset/cadence and BoolVar death-off transition pinned
+Health Bar native evidence: CP lower-left/client-HUD usage, SP positive-width bar idiom, builtin IDs
+Health Bar reader: typed bounded health pair, scale before pixel conversion, valid laststand1/200 yields0
+Health Bar ownership: one record/two handles; partial allocation cleanup before publication; one independent worker
+Health Bar cleanup: exact record cleared and owned refs consumed before destroy, then stop notification
+Health Bar GUI: source position23, selected-player toggle, typed configuration/reason, no cached health or handles
+Health Bar simplification: one measurement policy, no derived width cache or duplicate shape validator
+Health Bar shader/runtime assertions, death/respawn scheduling, safe area/stock-HUD overlap and co-op display: NOT RUN
+Frog Jump source: held/airborne/standing/life, view-forwardXY550/Z400 and landing/outer cadence
+Frog Jump native evidence: player velocity/stance/ground/angle methods and concrete slide/launch/coaster owners
+Frog Jump worker: one exact grant/record, immediate off and stale-generation protection, no undo velocity
+Frog Jump movement: native owners/phase/link and launch-lifetime teleport-disable gate before sole setter
+Frog Jump GUI: source row21 personal toggle, configured intent distinct from observed movement
+Shared jump input: three source bodies unchanged; one receipt/observer, no duplicate readiness API or fixtures
+Fun simplification: Health Bar/Frog typed toggles share one builder; obsolete dedicated builder removed
+Damage-award scope: generic currency scaler cannot isolate damage/refunds, both source controls unavailable
+Frog/observer GSC assertions, real input/motion/off-on/death/respawn/co-op and movement-owner coverage: NOT RUN
+Menu Credits source: pinned 26 entries, five separators, scales, reveal timing and 220-pixel frame
+Menu Credits native evidence: objective font and IW7 fade/move/client-HUD builtin mappings
+Menu Credits ownership: exact owner/session/HUD/page/grant; one roll and one handle per line
+Menu Credits lifetime: producer-owned animation children; handles retired before stop notification
+Menu Credits navigation: Melee or actual completion; parent restored once, ordinary dispatch bypassed
+Menu Credits simplification: shared fixed-modal height planner; obsolete placeholder Credits rows removed
+Menu Credits GSC assertions, native scheduling/HUD destruction/input and visual acceptance: NOT RUN
+Arcade listener lifetime: parent-owned child and record-scoped retirement; stale stop isolation
+Arcade UI: owner-scoped current-stage link; five ordered read-only status rows and derived count
+Arcade UI invalid data: unavailable placeholder before foreign/scalar metadata can render
+Arcade native callback, quest, score, shot/throw and completion-event writes: ABSENT
+Arcade GSC assertions, native event timing, co-op and GUI acceptance: NOT RUN
+Dance native color order, tile resolver and direct death callback comparison: PASS
+Dance fresh stage/host/floor and shared eligible-actor gates before native damage: CHECKED
+Dance one five-argument damage site, loop exit, 0.25-second poll and local bound: CHECKED
+Dance empty-order input block and later-native-stage-only completion: CHECKED
+Dance owned reservation, cancellation and separate native/worker UI status: CHECKED
+Dance direct native order/counter/quest writes or forced quest events: ABSENT
+Dance native damage, callback scheduling, co-op, GUI and lifecycle acceptance: NOT RUN
+Floating-skull native stage, asset, motion bounds and glasses-predicate comparison: PASS
+Floating-skull fresh host/roster/glasses/unique-target admission before input: CHECKED
+Floating-skull one six-argument damage site and prior durable submitted marker: CHECKED
+Floating-skull known native advancement required; timeout/owner loss cannot replay: CHECKED
+Floating-skull separate page-only probe/input status and fresh dispatch authority: CHECKED
+Floating-skull native quest/glasses/health writes or forced progress events: ABSENT
+Floating-skull listener readiness, payload delivery, co-op and GUI acceptance: NOT RUN
+Brute cabinet native initial/reactivation stages, targetname and attacker/damage predicate: PASS
+Brute cabinet fresh host/target/native live-agent and real Brute admission: CHECKED
+Brute cabinet one five-argument input after actual Brute recheck and submitted marker: CHECKED
+Brute cabinet known native advancement only; ambiguous input cannot replay: CHECKED
+Brute cabinet separate page-only probe/status and fresh action authority: CHECKED
+Brute cabinet native actor/target-health/quest writes or forced events: ABSENT
+Shared Ghost hit observer callback expiry, terminal return and 0.05-second wait: CHECKED
+Shared Ghost hit observer has both real consumers and no obsolete floating wrappers: CHECKED
+Brute cabinet trigger delivery, listener readiness, credit and co-op/GUI acceptance: NOT RUN
+Cabinet reactivation global pointer and two native registration triples: PASS
+Cabinet reactivation one inherited native delegate and return preservation: CHECKED
+Cabinet reactivation before/after session, watch, attempt and entry-identity gates: CHECKED
+Cabinet reactivation fresh invalidation and settled-prior requirement: CHECKED
+Cabinet reactivation line/attempt-bound replay guard and native step-one completion: CHECKED
+Cabinet reactivation first-registration-to-menu admission and normal-stage-six regression: CHECKED
+Cabinet reactivation route display and unchanged fresh actor/input boundary: CHECKED
+Cabinet reactivation native quest table/index writes or synthetic events: ABSENT
+Cabinet reactivation callback scheduling, native input and co-op/GUI lifecycle: NOT RUN
+Native gameplay/GUI/lifecycle acceptance: NOT RUN
+Bomber damage acceptance, death-counter scheduling and later-spawn handling: UNVERIFIED
+Grey native damage delivery, fuse removal, co-op windows and lifecycle: UNVERIFIED
+Dropped-fuse discovery, trigger delivery, native transition and lifecycle: UNVERIFIED
+Native PAP helper resolution, cycle history, admission and cleanup: UNVERIFIED
+Native node damage payload, observer ordering, co-op and lifecycle: UNVERIFIED
+Quick Exit hold/death recovery and quick-disable input behavior: UNVERIFIED
+Soul Key pickup readiness/delivery, receipt/roster timing and persistence: UNVERIFIED
+Width/Reposition native scaling/rendering, movement, input and lifecycle: UNVERIFIED
+Native HUD rendering, static fades, rainbow and sampler lifecycle: UNVERIFIED
+Native tone scheduling, co-op input attribution and portal travel: UNVERIFIED
+Live process-memory capture or injection: NOT PERFORMED
+
+Speaker native stage/interaction identities and unique active location: CHECKED
+Speaker live actor/native placement gates precede owned admission lease: YES
+Speaker zero-cost wrapper, level callback and owned release order: CHECKED
+Speaker history validates actual native capture before listener arming: YES
+Speaker assigned target, agent/life and current defense checks precede damage: YES
+Speaker pickup has one trigger site after native success and phase claim: YES
+Speaker native timers, health and quest/wave assignments: ABSENT
+Speaker native placement/damage/pickup, co-op ordering and lifecycle: UNVERIFIED
+Speaker early exact model capture and shared trigger listener lifecycle: CHECKED
+Speaker active/late modes share one reservation and cancellation path: YES
+Speaker pickup grace precedes fresh outcome/readiness claim and one trigger: YES
+Speaker physical receipt and submitted marker survive worker cleanup: YES
+Speaker timeout rearm requires the same unspent active native defense: YES
+Speaker late capture, handshake recovery, waiter readiness and receipt timing: UNVERIFIED
+
+Late-pickup and history contracts preceded production implementation; three
+missing API targets were recorded first. Shared-ticket readiness/receipt
+contracts preceded three further APIs. The missing timeout-retry API regression
+failed before its correction and passes in the final compiler/static build.
+Retirement contracts use real GSC notifications on isolated structs; they have
+compiled but have not executed. The 0.05-second native-exit grace provides a
+scheduler opportunity and is not a proven readiness signal. Exact captured
+identity and native state are rechecked after it; a physical receipt blocks
+input before the next history sample. Missing early capture and an unconfirmed
+submitted pickup cannot be repaired by a world scan or a second menu trigger.
+
+Wave original wait stage, countable-death callbacks and current roster: CHECKED
+Wave generic/clown callback tuple and native protection filters: CHECKED
+Wave one five-argument living-host damage site after fresh guards: YES
+Wave known event hooks and exact native Spaceland spawner patch: CHECKED
+Wave event readiness requires the same clown death path as target eligibility: YES
+Wave native quota status stops advertising damage after its submission gate: YES
+Wave received boundary survives ticket cleanup, cancellation and restart: YES
+Wave native counter/health/roster/flag assignments or forced events: ABSENT
+Wave unused Brute support removed after source review: YES
+Wave native damage, counters/events, listener readiness and co-op lifecycle: UNVERIFIED
+
+Wave contracts and GUI bindings preceded implementation. Five missing policy
+API targets were recorded first. Quota-status ordering and receipt-before-cleanup
+static checks failed before their fixes and passed afterward. A Brute-binding
+absence check failed before that unused target branch was removed and passed
+afterward. An event-eligibility check failed before the clown death-path gate
+was added and passed afterward. These are static results, not VM check passes.
+One native callback tuple serves ordinary zombies and clowns; exact callback
+identity, roster membership, positive life and native protection fields are
+required. Damage is host-attributed to follow the native player clown-death path.
+Native kill credit/loot and armor effects remain normal callback behavior.
+The 0.25-second cooldown/five-minute bound do not establish scheduling guarantees.
+Only native quest advance reports Completed; quota and event receipts alone do
+not. Received boundary history prevents cancellation/restart from clearing a new
+regular round before quest advancement becomes visible.
+
+These are compiler/static results, not passing runtime checks. Check-site counts
+are source locations; loops can execute a location more than once. The intentional
+false-check probe has not executed. GSC Tool provides no standalone game VM.
+Contracts preceded bomber implementation; eight missing API targets were recorded
+before those implementations existed. Grey contracts preceded its implementation;
+ten missing local targets were recorded. Stale-fuse and pre-arm teammate-hit
+regressions preceded their new guards. There is no observed VM red-to-green cycle.
+
+Dropped-fuse contracts preceded implementation; six missing local API targets
+were recorded. A bytecode-order regression failed before moving intervening
+native-success observation ahead of input. A submitted-history regression failed
+before its marker was added. Both pass in the final compiler/static build. These
+observed static red/fix/green results do not execute GSC conditions in a game VM.
+
+Bomber controls require the current private-session host. The job targets only
+living reserved generic_zombie axis agents marked as suicide bombers. Native
+damage and death callbacks own actual kills. The job stops further submissions
+after observing the source target of 50 deaths, and waits for native stage advance
+before reporting Completed. The native sequence spawns 51 actors; death waiters
+may update after a damage batch, so actual count can exceed 50. Scheduling and
+cancellation latency require game testing. No kill is rolled back on cancellation.
+Review corrected the guest permission hint before final regression compilation.
+
+Grey Fight Controls expose host-only full Start/shared Cancel, readiness and
+read-only native roster count. Exposed Fuse Controls retains a fuse-only mode
+and explains its need for ordinary gameplay damage. Every actor and restarted job must observe native idle
+before assisting a later regeneration window. The menu targets only tracked,
+living, reserved, nonclone axis Greys with initialized native fields. It arms the
+stop listener, rechecks the same defined fuse and the cap captured during idle,
+spends the window, and submits one small native melee hit. The native callback
+owns cap changes, stop bookkeeping and fuse removal. Actual model/list removal
+is required; a stop event alone is insufficient. No automatic per-window retry
+runs after unconfirmed input. Only native quest advancement confirms completion.
+An independent review found the missed pre-arm event race; the idle-cap guard
+rejects that source path. Simultaneous physical input remains unverified. Both
+observer bounds are policy limits, not measured native scheduling guarantees.
+
+Dropped-fuse collection submits at most one menu trigger per map. The uniquely
+matched first dropped model owns the native pickup listener. The native callback
+collects the pair as one shared item, updates interactions and deletes both
+models. The observer requires deletion plus possession/interaction evidence, or
+native insertion after a teammate consumes the pair. It recognizes a teammate's
+completed pickup before its own submission and sends no extra event in that case.
+The submitted marker survives Pending and owner-loss results so the UI cannot
+resubmit an ambiguous attempt. A pre-input rejection can be admitted later.
+Native pickup remains available if the pair stays present. The observer releases
+owner/model references at exit and never completes the final quest stage.
+GUI collection/insertion checkboxes read native state independently of job status.
+The five-second observation bound is a policy limit, not measured game timing.
+Native insertion now uses the stock PAP callback after zero-cost, actor, native
+admission and complete cycle-history checks. Both interaction slots are leased
+until full callback return; only owned prior values are restored. Committed
+native cleanup survives owner loss and menu closure. Completion checks native
+inventory, limit and interaction membership, with no checkbox success cache.
+The native fuse flag during animation cannot finish the job. No menu retry follows
+an unconfirmed submission. Final node controls now use guarded native damage;
+Soul Key collection now uses its native pickup callback after quest completion.
+No WMD/final-completion event is forced here.
+
+PAP history, dual-lease and GUI contracts preceded implementation. New contracts
+cover either busy slot rejecting both leases and a later changed value surviving
+release. The compiled-native-gate regression failed before can_use_interaction
+was added and passed afterward. This is static red/fix/green, not VM execution.
+Native carry/ground/grenade/phase checks come from that stock helper.
+
+Visual preferences remain per connected owner. Smooth Rainbow follows the source
+shared hue phase, brightness 0.95, 0.001 hue step and 0.01-second cadence. Named
+colors disable it and request native 0.5-second accent/checked-box fades and
+1-second text fades. One requested-target cache prevents periodic refresh from
+restarting unchanged fades. Producer/sampler cleanup is explicit. Theme tests
+preceded implementation and the target-cache correction. All five design layouts
+now use one source-derived role plan. Open Controls now edits applied opening
+chords; native Dvar save/restore is implemented with unverified lifecycle
+durability. Width Editor now has
+source bounds, step controls and temporary geometry. Scroll animation preserves
+source timing with corrected millisecond labels. Compile/static checks do not
+prove native animation, scheduling or pooled HUD/font/indicator behavior.
+
+The portal worker submits at most one synthetic trigger per job. Native windows
+are shared; past notifications and same-window physical input cannot be excluded.
+Power is required to start charging; admitted charging/open state survives loss.
+Static executable inspection did not establish agent freezeControls semantics or
+g_ai availability/effect. Neither unresolved candidate is enabled as freeze.
+Full 1:1 parity, reversible freeze and native DLL/arbitrary-memory scope remain
+outstanding. No installed game files were changed, launched or attached.
+
+Final Power Nodes exposes host-only Start/Cancel, job status, five native node
+checkboxes and native UFO destruction. Early raw mapped-hit history permanently
+excludes another remote cycle after all five distinct nodes were observed. This
+may conservatively exclude after ineffective shots; it does not assert native
+activation or success. Each menu input is durably claimed before damage, and an
+unconfirmed node is never retried. Native activation can permit continuing other
+untouched nodes after restart while the cycle latch is clear. Native flag reset
+cannot reopen a spent cycle. Only ufo_destroyed reports Destroyed; quest completion
+and reward pickup remain separate native behavior. The 1.5/60-second bounds are
+policy limits. One node must first be charged normally to establish native
+monitor readiness; automatic entry without that preliminary hit remains unfinished.
+History checks all five explicit indices rather than assuming sparse-array size
+semantics. Readiness and index-four-first contracts preceded the correction; a
+static guard failed before the fixes and passed afterward. Six-argument trigger
+damage payload/fanout/order are unverified.
+Node contracts preceded implementation and GUI wiring; no VM red/green was run.
+
+Quick Exit and Disable Quick Menu retain source order, applied owner state and
+input behavior. A post-hold guard prevents closure, unavailable sessions or
+changed navigation from reaching back/refresh against a released HUD. Main
+sessions close on death; existing Quick sessions can remain open while dead. Five regression cases cover
+the resume policy. A static target-disconnect guard regression failed before
+the post-hold target-definition checks and passed after they were added. Runtime
+native-button cadence and lifecycle remain unexecuted.
+
+Soul Key contracts preceded implementation and GUI wiring. The action requires
+native destruction/completion, the original final callback, one exact dropped
+model and readable recipient data. A level observer sends one native trigger
+after storing durable submission history. Deleted model plus both native key
+fields owned by every snapshotted recipient confirms collection; prior ownership
+alone cannot confirm a surviving pickup. Unknown/disconnected recipients never
+silently leave the receipt. A current-roster checkbox/count is separate from job
+status, and the completed quest row still opens reward controls. Native callback
+roster selection can differ from the before-input observer snapshot on joins;
+that integration case remains unverified. No profile setters, achievement calls,
+reward spawns or model deletes were added. An unconfirmed trigger cannot be
+repeated from the menu; ordinary pickup remains available. Page gating of profile
+reads/scans has an observed static red/fix/green check. Runtime use-listener
+readiness, profile visibility, achievements and persistence are not established.
+
+Shared pickup-model selection replaced the fuse-only implementation. Its
+contracts cover exact asset/position, decorative neighbors, ambiguous duplicates,
+missing fields/entities and empty scans. Native fuse/Soul Key asset positions
+are checked against the original drop routines.
+
+Width Editor contracts cover source width/offset bounds, owner/session/HUD
+admission, input priority/cadence, text geometry, modal render suppression and
+width-dependent title/value reflow. Normal HUD visibility/geometry restores after
+exit; modal data is per owner and cleanup uses the existing pool. Review removed
+redundant height caches and sleeping scale workers, and added closed/dead/target
+admission guards. Actual scaling, button glyphs, input ownership and lifecycle
+remain game-VM acceptance work, not compile-time passes.
+
+Complete Grey fight contracts and shared fixtures preceded the new policy and
+spawn-watch modules. The wrapper calls native spawning synchronously in its
+level thread and preserves the exact zero-argument native completion wait. It
+does not publish Ready after Ended, rewrap itself, overwrite a foreign callback,
+or restore a slot owned by another hook. Body inputs include registered clones,
+exclude regeneration and respect the native MOD_UNKNOWN rejection flag. One
+worker handles both modes; old fuse-only lifecycle APIs/worker were removed.
+Native initial-spawn, damage, clones and completion scheduling remain unexecuted.
+
+Reposition contracts preceded production edits. The shared editor record replaces
+the width-only flags. Tests cover source panel/banner/bottom geometry, all four
+movement directions, step bounds, simultaneous-button priority, branch delays,
+native input bindings and stale owner/session/HUD rejection. Width remains on
+the same applied layout and editor lifecycle. Normal rendering stays suppressed
+during either mode. Static regressions inspect native scaling and all-pool
+translation; actual HUD placement and input routing remain unverified.
+
+Speaker contracts preceded policy/placement/worker implementation and UI wiring.
+Nine missing local API targets were recorded before production files existed.
+Normal bytecode retains the new explicit checks. Placement contracts cover native
+registration/unique selection, changed cost/callbacks, existing events, exact job
+reservation ownership and absent/changed/foreign lease cleanup. Defense contracts
+cover native stage/callbacks, model and wave-hold admission, assigned target and
+non-Brute zombie identity, native success-only pickup, committed-phase exclusion,
+replaced clips, cancellation, failure, missing actor and native-only completion.
+GUI contracts cover stage navigation, fresh host scope, stale stage-6 requests,
+readiness, active/canceling jobs and unknown versus zero native values.
+
+History validates the actual native model before listener registration. Its
+receipt is recorded before retirement cancels the ticket. Worker return releases
+its owner and capture reference while history retains the shared listener.
+A physical trigger avoids extra menu input; it cannot consume the native notification.
+Native timer length, defense success cleanup and real wave events are preserved.
+The native waittill_multiple implementation was fetched and confirms BOTH pickup
+and a regular-wave event are required, correcting an initial OR interpretation.
+No game-VM red/green, damage result, placement result or GUI acceptance is claimed.
+
+Open Controls contracts preceded production implementation. The corrected first
+build compiled and the local-reference check rejected the missing bindings API.
+The complete implementation compiles and retains its contract check sites.
+Source/static guards cover the original thirteen-command order, atomic chord
+commit, owner/stale-slot checks, current-chord instruction and input consumers,
+and the stock getKeyBinding -> physical buttonPressed adapter shape. Four
+persistent action-slot flags and their command notification threads are gone.
+No behavior assertion has executed in a game VM. The global key lookup's
+per-client behavior, command casing, keyboard/controller mapping and gameplay
+input exclusivity remain unverified; full Apparition parity is unfinished.
+
+Settings/storage contracts and an independent fixed record preceded their
+production modules. Compilation/local-reference checks first rejected the missing
+codec API, then integration guards rejected missing startup load and the absent
+first-spawn gate. The wired
+implementation compiles and passes source/bytecode ordering checks. Settings
+restore validates a complete detached snapshot; malformed or unknown records
+return to defaults. Chord validation reuses the current binding implementation.
+Native save uses one namespaced per-XUID Dvar and an immediate readback check.
+Accepted changes save after apply; editor exit saves once; rejected changes,
+selector previews and movement/refresh do not save. Failed saving preserves
+in-memory changes and reports their connection-only scope.
+
+The separate GSC storage suite tests identity-key construction only. Load fallback,
+getXUID, dynamic SetDvar/GetDvar behavior and readback are statically reviewed,
+not executed native tests. A vacuous untouched-layout assertion was removed.
+Identity timing/format, name/value limits and survival across maps, reconnects,
+script/controller restart or application restart remain unproven. No disk,
+archive, cross-host or cloud durability is claimed. No game VM, game launch,
+process attach, injection or installed-file modification was performed.
+
+Dead Quick contracts preceded source edits. The initial reference check rejected
+missing state::session_allowed; subsequent static contracts failed before life
+was passed into input and before explicit refresh arguments/deadline handling.
+The controller now distinguishes the Quick session by existing object identity,
+keeps nested Quick pages available while dead, and closes main pages on death.
+No separate quick flag or all-menu death watcher remains. Row rebuilding retains
+surviving labels and clamps removed choices; personal perk UI now reflects its
+callback's existing living-target requirement. Normal timing and held-Melee
+behavior remain. Jump alone yields zero Melee samples for nested Quick Exit.
+
+The four source Quick row sets and dead input cases have explicit GSC contracts,
+retained in bytecode but not executed. The original Is_Alive wrapper also checks
+a defined non-spectator sessionstate; that shared menu-life rule now drives input,
+row visibility and personal perk callback admission. Dedicated pure life tests
+and static callback/source guards preceded this correction. Native life/session
+field mapping,
+ADS/Jump lookup, co-op mapping, HUD rendering and death/respawn lifecycle remain
+unverified. The source waits for explicit redraw in some life transitions; this
+port deliberately rebuilds on observed transition to keep visible actions current.
+Generic Respawn, Restart and Disconnect remain unavailable; ordinary Revive now
+uses the guarded request path described above. Native IW7
+spawnplayer is not a verified substitute for BO3 respawn/Afterlife cleanup.
+Lobby perk mixed-life readiness now uses the shared preflight described below;
+native runtime acceptance remains outstanding.
+
+Perk personal/lobby and single/all actions share one fresh batch executor: CHECKED
+Complete roster and selected set/unset admission precede the first setter: CHECKED
+Native callback registry/entry schema and ten supported IDs vs pinned source: CHECKED
+Array registry/selection, string IDs and struct entries before index/member reads: CHECKED
+Malformed later callback entry and selected ID cannot pass a ready prefix: CHECKED
+Personal/lobby callback rejection reason preserves known inventory ownership: CHECKED
+Native registration extension retained; arbitrary replacement callability: UNVERIFIED
+Native inventory source: undefined initializes to array; defined non-array admission rejected
+Ownership outer arrays and nonempty string IDs checked before size/index operations: CHECKED
+Whole-roster inventory admission follows complete actual actor/life preflight: CHECKED
+Personal/lobby inventory reasons match executor; valid personal target remains independent: CHECKED
+Undefined inventory remains actionable; retention settings remain configurable: CHECKED
+Container checks do not validate arbitrary foreign values within a native array: LIMITED
+Per-actor native boundary revalidates life/callbacks before give/take: CHECKED
+Source menu life predicate and actual-player guard used by roster admission: CHECKED
+Selected-ID GUI readiness, visible reasons and inventory-owned checks: CHECKED
+Empty-roster ownership is false; host and personal-target rules remain distinct: CHECKED
+Duplicate legacy perk APIs and derived readiness map removed: CHECKED
+Native give/take sites and inventory post-check retained; direct inventory writes: ABSENT
+Perk native effect completion, callback timing, mixed-life and partial results: NOT RUN
+
+Perk feature and GUI contracts were written first. Whole-candidate source checks
+failed on the absent map ids() API before implementation. All missing set/unset
+positions are represented by GSC contract loops. Static bytecode guards inspect
+complete preflight before the first setter and native-boundary revalidation.
+Pure inventory/readiness contracts do not execute native effects. No GSC assertion,
+full toggle orchestration or mid-batch failure scenario has run in a game VM.
+Native callback side effects have no verified rollback, and membership alone does
+not confirm effect completion. A failed batch leaves actual state visible.
+
+Retain Perks native hook identity before saving/replacing callback: CHECKED
+Capture precedes one callback delegate with inherited receiver and actor: CHECKED
+Ten supported native unset callbacks clear the inventory keys being restored: CHECKED
+Native loadout/frame-end precedes spawned_player; native keep callback ordering: CHECKED
+One setting record/saved selection and one enabled-player spawn listener: CHECKED
+Restore stops on spawn/laststand/death/disable/disconnect/game-end: CHECKED
+Same-record/session/actor and special-mode gates before shared perk setters: CHECKED
+Native keep_perks wait bound/poll and selected-callback preflight retained: CHECKED
+Audited give callbacks have no direct GSC yield; Bang Bangs excludes message wait: CHECKED
+Personal dead configuration, current-roster/host UI and actual setting checkmarks: CHECKED
+Disable remains available for checked settings after hook loss: CHECKED
+Mixed-lobby hook-loss hint directs per-player cleanup: CHECKED
+Native preservation flags or native inventory writes introduced by retention: ABSENT
+Retain Perks runtime scheduling, endon ordering, effects and lifecycle: NOT RUN
+Freeze g_ai/agent receiver/prior-state restoration contract: UNRESOLVED
+
+Retention feature/router/GUI contracts were written first; initial source checks
+failed on the absent retention API before implementation. Callback capture and
+one-delegate contracts use isolated structs without replacing native callbacks.
+The setting contract starts/stops only isolated notification listeners and sends
+no spawn event. A cancellation contract failed before the enable-only active-hook
+guard, and GUI contracts cover checked off-actions plus mixed-roster cleanup copy.
+Compilation/static checks retain these cases but do not execute them. Source and
+bytecode checks establish call ordering, native unset identities, post-loadout
+spawn timing, owned endons and fresh restore admission. They do not establish
+native scheduler execution, perk effect completion or runtime acceptance.
+
+Present-role contracts were written before their providers and the named-handle
+migration. The initial record documents missing source requirements, not executed
+failing GSC assertions. Independent source and integration review found no concrete
+defect in conditional roles, retained-window mapping or spacer request patterns.
+The old fixed-four traversal was removed; ownership checks require membership and
+uniqueness rather than incidental map iteration order. Regression covers both
+shift directions, changed/missing roles, source label edge cases, label-only and
+spacer writers, and actual cleanup ownership. Normal/developer compilation and
+static guards do not execute those contracts or prove native presentation.
+
+Directional spacer contracts and missing-provider source records preceded the new
+plan and monitor route; the original source's half-time wait, geometry-before-skip,
+long-wrap early redraw and shifted unchecked-next-row redraw were compared with
+pinned base/utilities. Short-wrap undefined locals and unbounded all-blank recursion
+are handled by explicit defined policies. Whole-array reference equality was not
+established by local primary evidence and was removed; count plus ordered row
+objects define the displayed snapshot. Equivalent containers, reordered/resized
+rows and missing models have contracts added before that correction. A separate outgoing-owner contract
+preceded its release_rows correction. Context guards and source/bytecode patterns
+are static evidence only; no GSC behavior assertion or native wait/render ran.
+
+Priority actor admission: one target actor/scope snapshot across personal control pages
+Priority reads: personal probes and God/ammo/equipment/perk/retention rows gated before target fields
+Priority fallback: rejected controls disabled; ammo Unavailable; blocked probes retain the actor reason; saved settings unchanged
+Perk life admission: one shared reason for personal rows, full-roster preflight and each native setter
+Perk last stand: immediate one/all and personal/lobby changes blocked before native callbacks
+Perk last stand UI: ownership remains readable; future retention remains configurable
+Perk last stand source evidence, contract compilation and bytecode order: CHECKED
+Perk last stand assertions, native callbacks and down/revive behavior: NOT RUN
+Priority policy: shared self/host/current-member dispatch rule; guest lobby reason precedence
+Priority lifecycles: dead setting configuration, perk life/callback gates and hook-loss cleanup retained
+Priority native gameplay setters, callbacks and refill/retention workers: UNCHANGED
+Priority actor contracts and before-read source/bytecode order: compile/static evidence only
+Priority gameplay/VM assertions, respawn and native callback acceptance: NOT RUN
+
+Priority actor contracts preceded implementation and record missing source
+requirements rather than an executed game-VM red/green result. Independent audits
+confirmed the stale Basic target mismatch and absence of the Perk Menu target
+snapshot. Regression includes malformed data and a saved-setting nonmutation
+case; compile/static results do not prove runtime actor transitions or effects.
+
+Retention capture regression: only the native per-player GNS inventory marker skips capture
+Temporary inventory: existing/empty saved normal selection unchanged; original receiver/player delegate remains once
+Retention GUI: personal/lobby hints explain normal-down capture and GNS inventory exclusion
+Retention contracts: GNS skip/resume and normal protected/pending-reapply capture; COMPILED ONLY
+Native perk loss, GNS scheduling, callback execution and co-op: NOT RUN
+
+Host FOV Scale: exact original global cg_fov setter; source65..85 step1; native host required
+Numeric preview: fractional seed, source overshoot-before-direction and endpoint wrap retained
+Preview storage: one session choices map; first valid seed before render; no global write until Use
+FOV readiness: actual private current host before native reads; typed readback after one global setter
+FOV native evidence: installed base/patch2645 confirms client cg_fov path distinct from global API
+FOV registered domain/type, rendered effect, replication and GSC assertions: NOT RUN/UNVERIFIED
+Named-choice sliders: existing path and index display retained; compiled contracts only
+
+Priority toggle intent feedback: source branches explicitly describe the aggregate backend direction
+God Mode off/mixed/all-on, per-perk independent ownership, retention enable/discard and render-purity assertions: COMPILED, NOT EXECUTED
+Three executable intent-source guards: failed before implementation, pass after implementation
+Production gameplay calls, state, workers and menu row order changed by intent feedback: NONE
+Native text drawing, last-stand ammo effects, gameplay and co-op: NOT RUN
+
+Zombie Invisibility source slot17, broad active living Axis scope and half-second repeat: COMPILED
+Installed base/patch CP query2634 and Hide(1)/Show() call shape: source and bytecode inspected
+One level record, stale cleanup isolation, no death/disconnect worker cancellation, game-end stop: guarded
+Typed configured checkbox, special/quest scope, current-set Show and page locality: assertions retained
+Work-only visibility source contracts: failed before implementation, pass after implementation
+GSC assertions, live Axis rendering/extra-argument behavior, pooled activation and co-op: NOT RUN
+
+External game script bindings still requiring runtime resolution:
+scripts\asm\asm_bb::bb_requestmovetype
+scripts\cp\agents\gametype_zombie::onzombiekilled
+scripts\cp\cp_agent_utils::getaliveagentsofteam
+scripts\cp\cp_gamelogic::_id_72BF
+scripts\cp\cp_hud_util::get_damage_direction
+scripts\cp\cp_hud_util::play_basic_pain_overlay
+scripts\cp\cp_interaction::can_purchase_interaction
+scripts\cp\cp_interaction::can_use_interaction
+scripts\cp\cp_interaction::delayed_trigger_unset
+scripts\cp\cp_interaction::interaction_is_valid
+scripts\cp\cp_interaction::interaction_post_activate_delay
+scripts\cp\cp_interaction::interaction_post_activate_update
+scripts\cp\cp_interaction::take_player_money
+scripts\cp\cp_laststand::instant_revive
+scripts\cp\cp_persistence::get_player_currency
+scripts\cp\cp_persistence::get_player_max_currency
+scripts\cp\cp_persistence::set_player_currency
+scripts\cp\cp_weapon::isinvalidzone
+scripts\cp\gametypes\zombie::_id_13F1F
+scripts\cp\loot::drop_loot
+scripts\cp\loot::is_in_active_volume
+scripts\cp\loot::recharge_power
+scripts\cp\maps\cp_zmb\cp_zmb::cp_zmb_goon_spawner_patch_func
+scripts\cp\maps\cp_zmb\cp_zmb::cp_zmb_wait_to_be_revived_func
+scripts\cp\maps\cp_zmb\cp_zmb::setup_tutorial_requirements
+scripts\cp\maps\cp_zmb\cp_zmb_dj::alien_grey_fight
+scripts\cp\maps\cp_zmb\cp_zmb_dj::blank
+scripts\cp\maps\cp_zmb\cp_zmb_dj::can_place_speaker
+scripts\cp\maps\cp_zmb\cp_zmb_dj::complete_all_speaker_defense
+scripts\cp\maps\cp_zmb\cp_zmb_dj::complete_fetch_quest
+scripts\cp\maps\cp_zmb\cp_zmb_dj::complete_grey_fight
+scripts\cp\maps\cp_zmb\cp_zmb_dj::complete_ufo_projectile_attack
+scripts\cp\maps\cp_zmb\cp_zmb_dj::do_first_speaker_defend
+scripts\cp\maps\cp_zmb\cp_zmb_dj::do_second_speaker_defend
+scripts\cp\maps\cp_zmb\cp_zmb_dj::do_third_speaker_defend
+scripts\cp\maps\cp_zmb\cp_zmb_dj::init_alien_grey_fight
+scripts\cp\maps\cp_zmb\cp_zmb_dj::init_dj_speaker
+scripts\cp\maps\cp_zmb\cp_zmb_dj::init_fetch_quest
+scripts\cp\maps\cp_zmb\cp_zmb_dj::init_first_speaker_defense
+scripts\cp\maps\cp_zmb\cp_zmb_dj::init_second_speaker_defense
+scripts\cp\maps\cp_zmb\cp_zmb_dj::init_third_speaker_defense
+scripts\cp\maps\cp_zmb\cp_zmb_dj::init_ufo_projectile_attack
+scripts\cp\maps\cp_zmb\cp_zmb_dj::start_defense_sequence
+scripts\cp\maps\cp_zmb\cp_zmb_dj::use_dj_door
+scripts\cp\maps\cp_zmb\cp_zmb_dj::use_dj_door_after_fail_speaker_defense
+scripts\cp\maps\cp_zmb\cp_zmb_dj::use_dj_door_after_getting_tone_generator
+scripts\cp\maps\cp_zmb\cp_zmb_dj::use_dj_door_during_speaker_defense
+scripts\cp\maps\cp_zmb\cp_zmb_dj::use_dj_door_to_get_tone_generator
+scripts\cp\maps\cp_zmb\cp_zmb_dj::use_dj_door_to_pick_up_analyzer
+scripts\cp\maps\cp_zmb\cp_zmb_dj::use_dj_door_to_request_defense
+scripts\cp\maps\cp_zmb\cp_zmb_dj::wait_one_wave
+scripts\cp\maps\cp_zmb\cp_zmb_dj::waitforplayertrigger
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::blank
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::brute_hit_arcade_cabinet_with_laser
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::can_floating_skull_be_destroyed
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::check_kill_on_dance_floor
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::complete_brute_hit_arcade_cabinet_with_laser
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::complete_clean_arcade_cabinet
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::complete_get_1_9_8_4_kills_on_dance_floor
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::complete_hit_the_floating_skull_with_spaceland_laser
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::complete_play_arcade_games_and_make_critical_shot
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::complete_pop_all_balloons_in_beginning_area
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::complete_spell_the_word_ghost
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::get_1_9_8_4_kills_on_dance_floor
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::get_dance_floor_tile_color
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::hit_the_floating_skull_with_spaceland_laser
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::play_arcade_games_and_make_critical_shot
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::pop_all_balloons_in_beginning_area
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::reactive_ghost_n_skull_cabinet
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::spell_the_word_ghost
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_activation::wait_for_player_activation
+scripts\cp\maps\cp_zmb\cp_zmb_ghost_wave::reactivate_cabinet
+scripts\cp\maps\cp_zmb\cp_zmb_ufo::attach_alien_fuse
+scripts\cp\maps\cp_zmb\cp_zmb_ufo::can_charge_power_nodes
+scripts\cp\maps\cp_zmb\cp_zmb_ufo::can_use_pap_upgrade
+scripts\cp\maps\cp_zmb\cp_zmb_ufo::get_power_node_struct
+scripts\cp\maps\cp_zmb\cp_zmb_ufo::grey_on_killed_func
+scripts\cp\maps\cp_zmb\cp_zmb_ufo::remove_alien_fuse
+scripts\cp\maps\cp_zmb\cp_zmb_ufo::start_grey_sequence
+scripts\cp\maps\cp_zmb\cp_zmb_ufo::upgrade_pap
+scripts\cp\utility::_hasperk
+scripts\cp\utility::_unsetperk
+scripts\cp\utility::giveperk
+scripts\cp\utility::has_tag
+scripts\cp\utility::is_escape_gametype
+scripts\cp\utility::isplayingsolo
+scripts\cp\utility::isteleportenabled
+scripts\cp\utility::updatelaststandpistol
+scripts\cp\zombies\interaction_weapon_upgrade::weapon_upgrade
+scripts\cp\zombies\zombie_fast_travel::run_fast_travel_logic
+scripts\cp\zombies\zombie_power::generic_generator
+scripts\cp\zombies\zombies_perk_machines::give_zombies_perk_immediate
+scripts\cp\zombies\zombies_perk_machines::take_zombies_perk_immediate
+scripts\cp\zombies\zombies_spawning::_id_12E29
+scripts\cp\zombies\zombies_spawning::goon_spawn_event_func
+scripts\engine\utility::array_contains
+scripts\mp\agents\zombie\zombie_agent::onzombiekilled
+scripts\mp\agents\zombie\zombie_agent::setupagent
+
+Compiled-source SHA-256 records:
+f6da983155d7dcb35a2f4b07f287fef7d46d26ae403b70770c66d7bfc4b0340f  custom_scripts/cp/apparition.gsc
+c84aa8aa42f6b7dd02330010400f84a3640d52a8ce9017a64c57be3991631efd  scripts/apparition/features/ammo.gsc
+a811c88217608accd20755092588a8e9fa932ee1053764456f6d0af03bce3984  scripts/apparition/features/crosshairs.gsc
+7207a01767b8246de92c40615f5a325521dde6b90be399804632907e7f9c1103  scripts/apparition/features/demi_god.gsc
+0f3abf24ae4bca335734d584a13a6c4d90e2113bd3ecb75760638fa873b2218c  scripts/apparition/features/down.gsc
+44df8c28b80da95ad8b6777bc062d2e6e4972b2d69552797266c028cdf71eabc  scripts/apparition/features/earthquake.gsc
+8b73a8cc61fed41262ac9ad5502ecfd440b1d20378ab24f29018e8ce8f03c87d  scripts/apparition/features/equipment.gsc
+0a7362e4a3a27bfd5d34ba48c7a6795c150a2894cbbdf7cbd71d46d2905788b4  scripts/apparition/features/explosive_protection.gsc
+afa4a434f12de2e4b5114bf2b6ccf0a666c121928d79bfb41ac28a8301197365  scripts/apparition/features/fov.gsc
+84ab2aabe272c47bb5d49719530a58b9fff0721d78edaa7411a23800c1604f20  scripts/apparition/features/frog_jump.gsc
+75d05cdb3a1e3f53b82b24d41ee67cc2d040729b3002bfc9d61da41474de6f32  scripts/apparition/features/god_mode.gsc
+d616bff4e72713d11c15d8f5121c94257114e72aff6621e89904e0080b691ff5  scripts/apparition/features/health_bar.gsc
+d804a7a5294ad92560065c85b0ff49b053f18bf688a75d5159665f6ea1a84429  scripts/apparition/features/hud_visibility.gsc
+7029b745e28615745b591900f89669df8b1c40dde3a01b32b65fb49c84379543  scripts/apparition/features/insta_kill.gsc
+4be745e4c4df6c8688836647ee0dbf4faeb074a94b40c1ed547e76df13243873  scripts/apparition/features/invisibility.gsc
+e34cc44a0b1c61b95cc98c71c1fd845e3b769fcfc94c086cfa7c7372c4cd2f01  scripts/apparition/features/lobby_teleport.gsc
+08a2170e19eea8b65bc9f385a570dc6ff489bcc8ac4d794e96f3045f2cf31ed6  scripts/apparition/features/messages.gsc
+41a4ad4c403af0ebd88fac43ed66f6312f65136d73d8a5124a23712f782fbc4b  scripts/apparition/features/movement.gsc
+719089af476421951ecefd9b76f5650d0155c0313b4694ef785b65bab3ef8587  scripts/apparition/features/multi_jump.gsc
+264ea5675c47fc3dd86465382884d550e0bbdac9a14a261cd59452a3a42a5a40  scripts/apparition/features/perk_retention.gsc
+1566da6af0af0b2987359e59b9c5886e0f908905c1398d1ae4165abf5e10ae7e  scripts/apparition/features/perk_sounds.gsc
+375ae2725be24669cabb2b24770464f95f4be46096f4f15c2c4fff2cf1db9df9  scripts/apparition/features/perks.gsc
+e139b8e9934655173b88e89eabf1cb1beb4f84ce3e19bcc563befed816b7bd95  scripts/apparition/features/player_messages.gsc
+aedc527e39e10ff3fd450dbd566d888c24872be64813a190ef47fd245768e5cb  scripts/apparition/features/position_shortcuts.gsc
+ff423530eec77e4d1b5d5eef872b2c1d6a5708ca5435f934c47bc5cac078dc62  scripts/apparition/features/powerups.gsc
+4e9f15504153307326d52b8cfb1293126a6c7202496dc493ac3730ff2064b643  scripts/apparition/features/revive.gsc
+ebd69206b9dab8251710b4de82c3b5f8f87b178ede1167c6d095409933a68622  scripts/apparition/features/score.gsc
+3341f52b1c17dff7942133a5c5010b5b6013cc6207d51dd40442df57e48d313e  scripts/apparition/features/server/auto_revive.gsc
+a54f1aebfa2e2be9bea3ecbc1f451f5fcb6cf8289b428ea406f9ea5adb925796  scripts/apparition/features/server/context.gsc
+cf34024aad1c8c3249758d3766730d0e8a2ceb8d79c5f0afb3c8d0a9e4ebf3ef  scripts/apparition/features/server/doheart.gsc
+32eb4f1345f77c906f06f17b5e5bf896a395bf466d1785c24fd40e9b0e011a76  scripts/apparition/features/server/end_game.gsc
+966bde7cfa7795c900be2cd2c3c7a4f3fe25860e2c45189a9fe126b858c02579  scripts/apparition/features/server/lobby_timer.gsc
+b1e7edc885e909e5be79f52345e72b3b6e357d11c28e48c35d274d537937f5e7  scripts/apparition/features/server/movement.gsc
+88af10c7145d4ac9f7951a21a1d0b67d7988fd72418fb6b8e33339f8257735d4  scripts/apparition/features/server/newsbar.gsc
+c3b142f493158dcea82836f97257783784cb031615b59b3dfcefebba2809c19f  scripts/apparition/features/server/timescale.gsc
+fbae9f5d2186904e081ae75117bfa57d5c622e23086845f2f61ae767425207e4  scripts/apparition/features/server_cheats.gsc
+66741c4ec8f185fe3a930fd63837ef8d20c50206eab8ec1affc8a9860274eff7  scripts/apparition/features/show_origin.gsc
+ffc3a2f165ea676f8c5d64bc3c87160dd7ea9136a7111f0acd089cbb3d472c60  scripts/apparition/features/sprint_fire.gsc
+648d2748009d7f2e666dbad6d0c82920046ca125187da7b8dcccfa178de74c66  scripts/apparition/features/teleport.gsc
+5eb47786de93404909ea548764069a460da46acbd44e5d1c0ea04dce0902e5b9  scripts/apparition/features/teleport_gun.gsc
+efcb34c7c635432ee3905874ff7441525abb5d6f6661fe421cd5d1f0373a40ac  scripts/apparition/features/vision.gsc
+06d4989b582e20e5256729e8446772a54817dcc3b56b4a768f8c655ed86daa93  scripts/apparition/features/weapons.gsc
+1091343fdd10614e56643e603d99ba66c603fd518267ea3c49aaaf9e0559ac6d  scripts/apparition/maps/spaceland/arcade_history.gsc
+994e474a0b3a11c685cc0341d69547f9ea1211c6bf25b6af7627d177d9b45ae2  scripts/apparition/maps/spaceland/balloons.gsc
+8a2f7d964b082d1e58550bd4cb78021c24a5761c9739b3f7e488a47541dec710  scripts/apparition/maps/spaceland/bomber_worker.gsc
+972e16a5b175010a6608eb3e21aa84aca3a9ad7ec18dfcd7d2cb9e3edecd9f98  scripts/apparition/maps/spaceland/bombers.gsc
+1a3ed852af259d08932b40f71091e185e8275e0043c6f85cace9024c7af29214  scripts/apparition/maps/spaceland/brute_cabinet.gsc
+7a179c7fa98f32e6ec468b7b67e73df521de8d99f852008c53221108dbd81ea2  scripts/apparition/maps/spaceland/brute_cabinet_worker.gsc
+bcce3c4d3cac7a225ef0ae0b8390161c6555c4f0811735ce315c05f98226658a  scripts/apparition/maps/spaceland/cabinet_activation.gsc
+980b426b070d29ea6e7746b75fdaf0bacdd72321cb5d2ca0992cf6de9e0bbc00  scripts/apparition/maps/spaceland/dance.gsc
+8188e604f2b6fdf76bdc5fbe1423b299ac6086bfefbbc9998ac19341e46fb338  scripts/apparition/maps/spaceland/dance_worker.gsc
+2aef8483902427904a2ddcd769fe5a7d5ffc82b7fbe368091224aad055c5e9ab  scripts/apparition/maps/spaceland/dj.gsc
+2e80622bb524024b8ab283c73fb9629bffa356c0b40512444a1272de85e2d88d  scripts/apparition/maps/spaceland/dj_parts.gsc
+30d7cd538044c0c89b5e32591a11d91e95e1f36267aa8745824fc389d48fb0e1  scripts/apparition/maps/spaceland/entity_teleports.gsc
+e61b642e2a3c371c54a7dd918f35b2f33764ecbaaabb031ac5e56d2a0ca7e9a3  scripts/apparition/maps/spaceland/equipment.gsc
+1510316edd729e1c536bba2c1dda4f093fdad9be2a81a631f94ea46e7ec6f05c  scripts/apparition/maps/spaceland/floating_skull.gsc
+c482518019aa517facb5b6578d91610e5fafc0745b1bebf37820df051b2705d3  scripts/apparition/maps/spaceland/floating_skull_worker.gsc
+135269d18ecd7917ce61f8fda6d7cd882ae3d316703a6b8c36da3636cb111e70  scripts/apparition/maps/spaceland/fuse_pickup_worker.gsc
+fb405e07bf5876ade31da6a734ba40555199e2fa8234195a79668da08b536904  scripts/apparition/maps/spaceland/fuses.gsc
+c54773f27e1dce5460779ff31c7ac0bc9a4b8de026515e323c498801360eafa7  scripts/apparition/maps/spaceland/generators.gsc
+4738dd63236626558566437393147dba986c5c833ac777a9bdea206c64a963e8  scripts/apparition/maps/spaceland/ghost_history.gsc
+a07d1156fe1d24742490c2f38316546ee3d2206832493b92b810672f76f89193  scripts/apparition/maps/spaceland/ghost_hit_observer.gsc
+c67e8b24b8605968f34e83f619238db27d6f838fc225bcf6ad1c94b985f55d5d  scripts/apparition/maps/spaceland/ghosts.gsc
+48a18ed72b2ea6fd0df52be09d71cae81a47afa5bfe6268c4c9196f83d5b16b1  scripts/apparition/maps/spaceland/grey_fuses.gsc
+67c84509ff6278bb5ce52a3031cd8d46e944b05ab5695a97e4525d5ad320bdff  scripts/apparition/maps/spaceland/grey_sequence.gsc
+6971b938e5674a939963881dcdafd88f0530bf40da9c5dd592c06275715b4349  scripts/apparition/maps/spaceland/grey_worker.gsc
+940caeac072fa4550a6bda26e06cd7f4d02ac30cac41435abd11e4353027d2de  scripts/apparition/maps/spaceland/greys.gsc
+ff95941a9d1bee6eeadadfd02a8c55b9d095884d2c33ea64ad25a31efbab86e5  scripts/apparition/maps/spaceland/node_history.gsc
+35a16f474627883c6c9d7c050dafcf42c3c3461f3158d51c75f40c9121b68851  scripts/apparition/maps/spaceland/node_worker.gsc
+bc30991297a56916633b6b18c0d269ac5a2ae54b41643c8f776a108691d4153a  scripts/apparition/maps/spaceland/nodes.gsc
+e394c0fc150301d6d581b491dc1e66fb8c4a39e038abf14969479eced2c1871f  scripts/apparition/maps/spaceland/pap_cycles.gsc
+a0e4d3621d0af0e6baf114e9a67cc2c14065a0f96916756d809c2f47aae65814  scripts/apparition/maps/spaceland/pap_insert.gsc
+064445b4024af226159ce21636091c12d92c29f97f1e94434f4ff324871bc96a  scripts/apparition/maps/spaceland/pap_insert_worker.gsc
+2a5f2d7dd1e3e8dae132550a4f38b565ffe20672742b21321d693b2aca9b2e12  scripts/apparition/maps/spaceland/perk_sounds.gsc
+e5f5b492bc1935acaca15e5ce49f8536d6d7b5eb027dd4381f544aa072bbb98e  scripts/apparition/maps/spaceland/perks.gsc
+3720e2b0234854152128987365b5b30ce1cfd8aae9a478694e89a58ccd10c7f9  scripts/apparition/maps/spaceland/pickup_models.gsc
+71712b9d3f0788fb3c6b162687a5bd5bd7fd793b1b92753ab1776ac8459a8efe  scripts/apparition/maps/spaceland/portal_travel.gsc
+cf3cd2c41e057463f035ed1c2efba0f1fdae2fea7f5acaad53c1ebebe7f7b854  scripts/apparition/maps/spaceland/portal_worker.gsc
+a3761f8e7d5f153b88d86976d51df5ae12f8ced7bbea745a4006edb81f7a9d4c  scripts/apparition/maps/spaceland/portals.gsc
+5a74eea8331f5fa4a3647a8a1fef5bb10c864887b82f2f4530cd266215eec42f  scripts/apparition/maps/spaceland/power.gsc
+3ca1ae069a980ed8f8607756705e23e1ab6a234ba7f8b4676c4334ed5286684d  scripts/apparition/maps/spaceland/power_worker.gsc
+2a298a773c6ea6571cf75c967c5d3ce8a327f3e39c877512c083fd31c8fed495  scripts/apparition/maps/spaceland/powerups.gsc
+c43e981be007f5138bdaaed4c437a58692156f8a0debca7423cec801050bcfbf  scripts/apparition/maps/spaceland/quest.gsc
+3a9385d9f032a1318894236345b86eeb7ab615073c0feb2d21e776f7a77a9c29  scripts/apparition/maps/spaceland/reactivation_history.gsc
+70640c593d0b737f30b9fd0985ff43992961d3bc9d8f12c85b192f2cbe1fc42b  scripts/apparition/maps/spaceland/revive.gsc
+7dbabc83dd2f053962a0dbada0b4c9325db562196ba2c362160dfaeb2a3b93ba  scripts/apparition/maps/spaceland/soul_key.gsc
+d405db1db11d6b45f1d1bd335fd1498350dd61df5f0339dafb3600a41647daac  scripts/apparition/maps/spaceland/soul_key_worker.gsc
+4aea081a8b97c40571a67329184999275a689445d02344aa66a45514ed2c99dd  scripts/apparition/maps/spaceland/spawn_points.gsc
+1e9b3954ebebf661fd604fffd41786aca07325df418df858e4c006659eab536d  scripts/apparition/maps/spaceland/speaker_history.gsc
+b8b38f6092e8bfb00eadb61d29330a43e02b77b6b7893f9de524229d1bbdee01  scripts/apparition/maps/spaceland/speaker_placement.gsc
+72ef969bff340956d80f7885c00a102165a96bd551a1defe9007a06723d1f520  scripts/apparition/maps/spaceland/speaker_worker.gsc
+3aff635d2bf400de301cd6af57b8dcdcd48718a5d9f878a21375950a0b352297  scripts/apparition/maps/spaceland/speakers.gsc
+85986065eda3ecc994285dde6d6091a7bb5950ffd5d0c25a46bdf3f416683e54  scripts/apparition/maps/spaceland/tone_worker.gsc
+5d8ddc9aed19eb53525b5a07524a6a1491c1aed2fee70823ed7834ef043ff982  scripts/apparition/maps/spaceland/tones.gsc
+3b90490552e0a7745824c9e411cefeb0a4480f77632d589979c0ec47d5143fd5  scripts/apparition/maps/spaceland/wave.gsc
+d7f17f644783ec67c436754ca6151be36837a631fa71f329f18a7b762f00bd71  scripts/apparition/maps/spaceland/wave_worker.gsc
+9fa06e053232a0af06cff020b93d7183e1e7df3090eeeede7f639a5cfc0621f3  scripts/apparition/maps/spaceland/zombie_context.gsc
+de472d1eaf558285da255b7212e4fed8a86bb485858e98a97a981e8f5d45a2be  scripts/apparition/maps/spaceland/zombie_health.gsc
+79426a47df3eed64edd9c8a28c6f26baf61af39acfbcb1a76c1c900a3756d4f8  scripts/apparition/maps/spaceland/zombie_kill.gsc
+a65b0d09e2749908fc5bceef405f0d089bdb4cd173e5443b419fb393c3e1458a  scripts/apparition/maps/spaceland/zombie_movement.gsc
+10faa60a5f4d1351c1cc294204be1e79d7e60ad0d9adeac37b007db4ba2e02cf  scripts/apparition/maps/spaceland/zombie_targets.gsc
+32e974148c0da4c7302313f7e7bb0131eb7d1c3a7187e0a1983d0c19b69e9c73  scripts/apparition/maps/spaceland/zombie_visibility.gsc
+157c446eb352108602dc2da248aa681c5a0d002e23fab21e9da81d1109d2c4c8  scripts/apparition/menu/actions.gsc
+32353b45ecd0f689a7878fa386b489c7454f8bf31f2c57df0125c44471e87d80  scripts/apparition/menu/appearance.gsc
+c75a016fd7f7657d7d773a531dd7edbd5747b7297830a80587269e0e4853f485  scripts/apparition/menu/arcade_rows.gsc
+ce171f46aeff9f0f89d85b60cc62fc587009922748b57fb85b0f7e0ebc6c97e4  scripts/apparition/menu/availability.gsc
+65e4708a74e9a8a99f3cc001dc9dca4718f204b7c07b2705b3a86263ec8747bc  scripts/apparition/menu/balloon_rows.gsc
+fd48a01bdd95da75bd8bd1b5cd856a1458b6a9181666698ba4fc64d2ad69fb0c  scripts/apparition/menu/cabinet_rows.gsc
+de576ccc5ac28bd46e2dc9fe2a37f28124e2ddc383ab37eadecdfa60d57e472c  scripts/apparition/menu/controller.gsc
+a8f125ac359384888f3ef8cf1bd85d784a04e911b5a3e82246776fb96d8a9779  scripts/apparition/menu/credits.gsc
+983d98b92ba3a1364bab840b01d8fa0af99e35af877da8493bc0e6d636c3de3c  scripts/apparition/menu/credits_plan.gsc
+786219df572f696c65c7cee780213bcf260d55507c6286d139bb2df4058464ff  scripts/apparition/menu/crosshair_hud.gsc
+d2f3d07079f47cb7f65f0692b3b7f075cd6cc743031ba3a0a78c9d5aad7d1285  scripts/apparition/menu/crosshair_row.gsc
+9dd5ef4a0fe4fe20c95d9d850d6e70cbee41e6c4b787a2f9d81508750c3e4cf8  scripts/apparition/menu/customization/bindings.gsc
+8008207b6af780b87a304f19917c461e2f5961291aea6d8e4b1c46b23622c697  scripts/apparition/menu/customization/editor.gsc
+8dcf183a1ff709029224a8a66202c16c29b2815fe3a079df0e4323b4c5883324  scripts/apparition/menu/customization/palette.gsc
+13a00dfa074a76183b8ac1792f002c37f6840e72a9a4f15d895d18bd3f7c4f9d  scripts/apparition/menu/customization/preferences.gsc
+5fe35d4dcf8625c4962335b2d53ad5fc1f8d26cc8d0724cb2f56345557abba6a  scripts/apparition/menu/customization/rows.gsc
+b0f4c17611a2cb6f55ab321512c8c908feb740ffffa53f5272a2c95180f09772  scripts/apparition/menu/customization/settings.gsc
+1e4d0936297221a9d6a898089b33dfba403acc66af379aeb031a4edd5b04c686  scripts/apparition/menu/customization/storage.gsc
+f1b574f8a55b673e426016edcc6ae4638997232be6d3dd8a0dc98e3541a20a84  scripts/apparition/menu/customization/theme.gsc
+f9cf4094a6241942eaefa763d0a70312a1edd1ff9f6983c3eea6a0c4cc05e8ef  scripts/apparition/menu/death_row.gsc
+0d31fa03bc30583480ff8ae4ae5e2d6c1ca0fb0b02466b41e6ed715f1c4042b5  scripts/apparition/menu/demi_row.gsc
+361ad2f2b3051c65f3555dec4a4a67ad9e9bb1afbe34e74af56167ce1e5ade9c  scripts/apparition/menu/design.gsc
+340876e60c332355d3148af1018394c74c60d33277e9b9b7f0dbf90d067c36d0  scripts/apparition/menu/dispatch.gsc
+04c84c33ead4ef78634cc73d72c30a9512d2c9f486c3bda987719239a13723eb  scripts/apparition/menu/dj_parts_row.gsc
+7953c6a7eff48471bfb09e7a8d7fb01d473bb75a9d18a90edfc6ab51b806eb5f  scripts/apparition/menu/doheart_hud.gsc
+7bfaa3429f2e47ca41375beadb5bcef598091e261b3db4941bae558e243458b1  scripts/apparition/menu/doheart_rows.gsc
+107b4dc846a2e7d8696a82664bf2e2d69abc9a2f998084e7fcbe45477fc488b3  scripts/apparition/menu/entity_rows.gsc
+d406c17ed33fcb7c81f5b1da8ed07fd24555e79890c763e7adb96902e202358c  scripts/apparition/menu/fun_rows.gsc
+872eede7607e8f674c0a946d79c0e49a5c160b4ce60573a93c2921605f044eee  scripts/apparition/menu/health_bar_hud.gsc
+9414ceaa9d853fe9f91115258fdfefc40b6d5397e77bff285950c55be69a64f5  scripts/apparition/menu/host_rows.gsc
+c0114dd15579f67d2aa40745f1abe59cc5bcea0627c8c73182e6aa577c07a2d3  scripts/apparition/menu/hud.gsc
+9521a4e39db0b971b11d25b086ade8733f01947a5c21fd549650d5a6d5b8fc9e  scripts/apparition/menu/input.gsc
+ed59c2bdfdf75904c7728f10cfdd0cca7d84963c10078e7f2d5c46ce95ca9752  scripts/apparition/menu/insta_kill_row.gsc
+ed0903fc93ea79f24dcb319058f3b0df601d286554dae528facbf1ac1a269ba0  scripts/apparition/menu/instruction_hud.gsc
+db8785aa899dc9ef40951b453cc569f25712f3eede50456600feefa79638aaaa  scripts/apparition/menu/instructions.gsc
+260ea24b9b4b0ec9bb9b2caa581018723ab5fa42f4f855582f22beb7367a8f5c  scripts/apparition/menu/keyboard.gsc
+bab3d000cbd08c2914b7e0b533435a42a71b9a5d86ead665d81afae26d5ddfec  scripts/apparition/menu/keyboard_hud.gsc
+f6e0bf3981896c6bf1ba6460a877b6e4c14fff0c77d4655d4071e8e8aeb9b042  scripts/apparition/menu/keyboard_model.gsc
+d6f241c670fd6309c2ea44caa0d0732b11fbd251206e31cb27f2895eef0031b6  scripts/apparition/menu/layout.gsc
+ab845a45369f7d066b3ca318cda6ed12d4cf1e406e38a1754bd074c617a04389  scripts/apparition/menu/life.gsc
+52f0ae0731b3084bd6971b1145437fa875bed5adfe0b156431ccf2d079f20766  scripts/apparition/menu/lobby_teleport_row.gsc
+24516a4fbade22669cc5e76221fcbfab4d41186f9e4f14687d9fb7d792d7eb7a  scripts/apparition/menu/lobby_timer_hud.gsc
+9137cc0dc443a99f78d0cba7fc184a9bea719b03a38deefd2ae0968d984d47da  scripts/apparition/menu/main_rows.gsc
+1efe3dca4f3ae4015b54279f0f7dcfe6352ace357909e1745402aadcdc75770b  scripts/apparition/menu/message_rows.gsc
+35dea40d541839c77370b98ab50aa712c0ac2504ff2ea5167b7a689f85281e84  scripts/apparition/menu/model.gsc
+1f2e3372c7d5a91ad9253f67b38da82f8074f41ed2a8fb8dde2aaed570cef223  scripts/apparition/menu/newsbar_hud.gsc
+2b688ca340937a0a7677d27abfd41075081bc34280298a3d2aa05f273e3a52f2  scripts/apparition/menu/numberpad_hud.gsc
+c19cd5a0b94cd69142ac2918af71b321b9619a7cf80227c6f81fc5af65f452ac  scripts/apparition/menu/numberpad_input.gsc
+6b8760d75a53742ed6009e24cd9e8d139629c6346c1a6657a4d165be4bce0f82  scripts/apparition/menu/numberpad_model.gsc
+3578612c2de025d0606e2b8a1417bc0f327c7c50889bcf5222d6cb07ecd828aa  scripts/apparition/menu/numeric_slider.gsc
+6508c7b044e31f2e80cabce3c41c838571e65898fdf1c0424f3493350ab1089e  scripts/apparition/menu/origin_hud.gsc
+63cce5be95c975ee34d9faa812e73a0455855cc08d009cb3f0c5ac8547fec66a  scripts/apparition/menu/ownership.gsc
+ed3623d211db63c25a4d283d50425aa3e7270a408515967aa51c6c03cc5dfbb5  scripts/apparition/menu/player_message_row.gsc
+8df871d2460b1b8c6c61a3be71b0e1f3b8114025383bb60f37801290efb7c7aa  scripts/apparition/menu/player_rows.gsc
+0f72c135cd89171866651da3794b9da38a014b30297f8744c7bc3be3b87b260c  scripts/apparition/menu/power_row.gsc
+e8755acf4bf2b118f685af10c4fc8a0deadea73ebc2079b4da00579ba233ba44  scripts/apparition/menu/powerup_rows.gsc
+233ea12c517b8d25384772cb28a992cd39522ec896b709a189ed8f08c0b6a01b  scripts/apparition/menu/row_elements.gsc
+fb209b55e108374f73b1d7dbecc508e1be19748abb8e5872c27d3508abb96fbb  scripts/apparition/menu/row_pool.gsc
+d6b678f324549a26b9dfd7fcb02242c0e06e1fef57d0506fb91730907d6661ce  scripts/apparition/menu/scroll.gsc
+4e10a72df4912d09d956d7548cb3c9f5762e3e9ec7998deb1ec03ec33e5696cd  scripts/apparition/menu/server_rows.gsc
+d7b3285f6b2b7ec3fdc2c31cd8169558dc84518adfaa72117be94b20596ca653  scripts/apparition/menu/sound_rows.gsc
+c40f9ff019fa344ec837d3bdd533c5716bdee474642d03b0649e5b43728e2c73  scripts/apparition/menu/spawn_row.gsc
+c9e94fddfdf47a6093ee62c0547a0153c13ecd515548705e62087548a6d5df2d  scripts/apparition/menu/state.gsc
+692557dbf83828e2fe0eecc55b2a09bacf464e66f264b88b9d9bc4185cf2811c  scripts/apparition/menu/teleport_rows.gsc
+709d6934c55421877877b5e71fafa85b63fcbbf6c7ad8de517aabfc1e46fbe26  scripts/apparition/menu/verification_rows.gsc
+2f95f72763febcbd4513e6d9d4a74aca333ce6ffa9e3f8f8fccdc37a5810fd0b  scripts/apparition/menu/vision_row.gsc
+3b5a71e26cf259ce53a429906bd10b0d7ef399ee822bdc394cea3bf219a93382  scripts/apparition/menu/weapon_rows.gsc
+82c3813fa1cb2d6cfcdb09c7049920f804edfe42a206dcda279efa5540064191  scripts/apparition/menu/zombie_health_row.gsc
+7680da164e276a3413886a5ef5a2cfdff72fcb637c5b2afe36a91208d8889c5f  scripts/apparition/menu/zombie_rows.gsc
+2cb0811bd53234f04c9d438abecc727fe1aba0f7cf995c8dfc53c0f2908d2b7d  scripts/apparition/navigation.gsc
+d036b4d7f128d025071d6781427e082dfa5a95fecb0e757874cc6345e3cd3b05  scripts/apparition/player_name.gsc
+fedcf21bf61027bb7aa0dcfb79e0e1c408db7062b29545a2ae8a8e8aa6a67855  scripts/apparition/runtime/access.gsc
+4bcfe73f9d6a259ce8fe1ecc244b8ef05fedbd9a4e4f68e8480c74fd10e4524c  scripts/apparition/runtime/context.gsc
+33557a43200dd4e5249d4f3d6185717e0dfd061065b9036e2e699cee8a89b925  scripts/apparition/runtime/damage.gsc
+74684278b53661aa18b5cc02b45acd5b02aef64b9da941dc5ad89fc5beb7aa6d  scripts/apparition/runtime/diagnostics/ammo.gsc
+f6bde9df3dde944a21a2b496a85b9d4d321c4d2f5224c07bc4a3b38c8df01082  scripts/apparition/runtime/diagnostics/inventory.gsc
+f6ee54de22461359d8654854227ba5ff2e81170cc7819c41ae2d65405f1d7406  scripts/apparition/runtime/enemy_damage.gsc
+ffd3fffee2fa56865fab97159e60a6d12605d1ef69903d785f4ac9690c967b24  scripts/apparition/runtime/events.gsc
+e0ea11e874a39cf66de4d73892915dc37185ecdd3cab44d4330a973b69e3406e  scripts/apparition/runtime/jump_input.gsc
+04de18a225a67be9e3d6f89e0bef1444af968204162e0e29efa1a95705a3e3a9  scripts/apparition/runtime/lifecycle.gsc
+e2184e807216e2cb234db70881cd9343d6b1752bbd351839daa33e879c17dbe7  scripts/apparition/runtime/perk_retention.gsc
+6cfaec4e0b1c310b9f4f2d728604d0620dc414e7aa9615d1db79ab2470765caa  scripts/apparition/runtime/player_control.gsc
+6e38cbace75c0427a5e792699f7b3e23ae1893d6e2d90b35b6be407253dfea07  scripts/apparition/runtime/view.gsc
+0872f8aa95f7badb9f622a1ac22542abb9699ddf62fc9febd0cb0abe6cbde9ea  scripts/apparition/runtime/view_pages.gsc
+b9d1a0c58b6053046482ff2bcef5a505c9a45dbe5ddd89a631d97e60cc54eeed  scripts/apparition/runtime/zombie_health_spawn.gsc
+0eae19a4c12a47952fed033bb8359bfa7336b28b5a97a132bd1c498e845bd5a4  tests/custom_scripts/cp/apparition_tests.gsc
+06c20081b639ffcc830c63a82d679b5a2032db9332d9964797a95d155b03cab5  tests/fixtures/entity_teleports.gsc
+8b5c6a32c8f3a659d0c66a4081e548673efbd121d963bcab5c56d102ecd8099b  tests/fixtures/equipment.gsc
+99059b118336327d581bf229cb5f865fab64d429531277b2b1a6f8c777e38b8a  tests/fixtures/ghosts.gsc
+f7c5d544be14c17691402d46172e78c5f985e639ff146ab2cfb251edb4241034  tests/fixtures/input.gsc
+4f4ff3f08f2d21d3eff8201c80616ada68b9285c1789dd10d853dc4ef818fed3  tests/fixtures/layout.gsc
+fcae2f184d25c32fabdbee35facb54298773423d6456bd653bc4aa151f77242c  tests/fixtures/models.gsc
+6680585b57c2c6cd020cb787212729e6c4b56e37655fd92ed7bccc91de7906e7  tests/fixtures/perks.gsc
+024f49d61e5e9dbe65044417bc7303b02caed648b08df08f5b1ad67b503e6da0  tests/fixtures/powerups.gsc
+09119ff2be6d988119a2e3c89f065cbea1d9f24bb96b302f23e0c74e78365ee8  tests/fixtures/reactivation.gsc
+ba11829b1412e8d4dc1b93fb050e75ff5d0fc53a2d31ba29655b7973b6891da1  tests/fixtures/revive.gsc
+bb28e0cf5038e03ac01217ec18d7e58aabd870e9c665ae51ba7065c50cc5fa75  tests/fixtures/settings.gsc
+e1b3e79324360d0b399b3f55164dae5240ac9f1aa6e13546280e4bbe26accc10  tests/fixtures/spaceland.gsc
+b097592d481506c693d57efe2df8c20c563a8e32d22f3d98cc6cbb502c16e963  tests/fixtures/spawn_points.gsc
+8ab2e6d58f0a442248eac3a13afa3715e8d7613f3367f633d8e0944b99279d84  tests/runner.gsc
+63aa128c482504a988c8a03eeda525d876c92050b5d3f7aa5b9ed6b790278082  tests/scripts/apparition/features/ammo_tests.gsc
+0b252da05c7d253444e586a6f35ee7c34f3532fb883fe09ea7fe910e3dd9092e  tests/scripts/apparition/features/crosshairs_tests.gsc
+126e4de792596600d25d06f9bbafe80819dfd58380d114817839a59d9732a430  tests/scripts/apparition/features/demi_god_tests.gsc
+97005a6882dea8a9efd8dbb9eef4931e106d6e3c001f8ae8b1965d55225c37d0  tests/scripts/apparition/features/down_tests.gsc
+faabe2bad395f2fde83683f2b0988ab375ec62796726f9e24ec2d60ccbd4ba13  tests/scripts/apparition/features/earthquake_tests.gsc
+48791d6428c56db19d3a7037b0c632fe148f93c38888b3178165a77f5a685c9f  tests/scripts/apparition/features/equipment_tests.gsc
+d9e4ce3b1971e72a174f95edc9eb2c784a65cc48e1d6949b886bb1b5d33cb762  tests/scripts/apparition/features/explosive_protection_tests.gsc
+c3c28d5bafb1325a92b082e1aa046d6d92a4896eb058aa2293db3ed25225fb8b  tests/scripts/apparition/features/fov_tests.gsc
+9da149225d52de23c13bc5ea0ae1190491291137c4f8943c6c94cb822cea12e5  tests/scripts/apparition/features/frog_jump_tests.gsc
+9899b6ca844c49c556e7c4f5ef95b7cbbeb783e0462d8ce11d0bf273bd47ef19  tests/scripts/apparition/features/god_mode_tests.gsc
+c503838ac15df5e6631ff792bb837e7a048bcf35b78b19f78766aaea8145ee46  tests/scripts/apparition/features/health_bar_tests.gsc
+0d20a9ce6a158ff0d24a15c59578fa215c03ad794c3d72956641d0b39fbbdd38  tests/scripts/apparition/features/hud_visibility_tests.gsc
+750917ff8b8f52a227402cb8acf7c71994297fb4577e848dbb6bfbd50cc9bc58  tests/scripts/apparition/features/insta_kill_tests.gsc
+3a1d18c52915c94be96296b606766b6770ee26c4926484064ba6601545430471  tests/scripts/apparition/features/invisibility_tests.gsc
+aa5bad4aa08dc7e053bfc2b9ffa8897ebb286fd16762b97645f3d14e5a60ddb9  tests/scripts/apparition/features/keyboard_consumers_tests.gsc
+73d955215f3fba07d7045091a10a812d57375339ee22364b94039b86ec03158a  tests/scripts/apparition/features/lobby_teleport_tests.gsc
+2310d2841ad4a8b818dedc85a4c8ad875b45b03e82117f63ed07d74135bc7dc5  tests/scripts/apparition/features/messages_tests.gsc
+d5d2e2f3b0e1f845966de45eb792c2f9d935fecdb8c010427eaf9936ac543278  tests/scripts/apparition/features/movement_tests.gsc
+d48660b582ead45ed8bfed63375898862435b0426121394a6e24437082204f22  tests/scripts/apparition/features/multi_jump_tests.gsc
+3c76cf31292b08157791ab27646532e7ef340f16bed557065e29af6eaca1e0a2  tests/scripts/apparition/features/perk_retention_tests.gsc
+705c5e904ebb81b91f9154cea4d87805c7aec1b6f7b04dad30d99364feed766f  tests/scripts/apparition/features/perk_sounds_tests.gsc
+e13eba7f51fdf7d98c903074b88e7fd9502637e9ab446d9ee3ebe5e99d784102  tests/scripts/apparition/features/perks_tests.gsc
+49f7a295f7932271494e6ae4522c74aa9fe75075bc830bc4667ebce38420fcb8  tests/scripts/apparition/features/player_messages_tests.gsc
+05627eafbeb0daa268a50b91a12616a3bcaa3f0fc07b8cc673b137473ec82e98  tests/scripts/apparition/features/position_shortcuts_tests.gsc
+1b5c1609035fb2b33b5cda4e83d752b19bfe91aa83ff578ccee2040759d7f114  tests/scripts/apparition/features/powerups_tests.gsc
+ad41362176b5baedd28f19bb8ab4a78ff099e396c2148647d9950c7e436943ca  tests/scripts/apparition/features/revive_tests.gsc
+fb83b12ebae3c614145df013d819e9ea4fd4581e696f7a6077352446d62bbf0b  tests/scripts/apparition/features/score_tests.gsc
+4a6f38528c0fb81215c8ba98e2109c8a5cca42feab30b49869bc7e2d4ce62499  tests/scripts/apparition/features/server/auto_revive_tests.gsc
+6535edb0bc93876dccefbcb850cccfeb1a73e3a093f7d84cba4037070c4918cc  tests/scripts/apparition/features/server/context_tests.gsc
+bb212bd26df2524830c47448c4df058e51b643a1f1c87eb361f371a1abe5c194  tests/scripts/apparition/features/server/doheart_tests.gsc
+4149cb78863989070ce7345129b632ac85f7d23007ef0f37bd9d5411d90d9d05  tests/scripts/apparition/features/server/end_game_tests.gsc
+c60a3115bbefb4ffdd7797c3eb177f574f03b18013d239b4c515fbed65363904  tests/scripts/apparition/features/server/lobby_timer_tests.gsc
+4ac4905d7339cade32aed753b0107250716d3f5527a511090f9788827f7d14fe  tests/scripts/apparition/features/server/movement_tests.gsc
+2407eb46827627541fd54aa71d161b3418fe1897db87d79dc4a13981a1bd9301  tests/scripts/apparition/features/server/newsbar_tests.gsc
+96c0fb2dfadf0c46c63938e4beafa91d0ad53c7c6819a91bf7a07c3446182cb1  tests/scripts/apparition/features/server/timescale_tests.gsc
+9d740872b27eec8acdb08970a0884bbcb354d98da5d43f7052ecd11f901d1b87  tests/scripts/apparition/features/server_cheats_tests.gsc
+0fc1f91df1dc24f8d9b892860bd82030799097aab6bc9091be34d351fed528ef  tests/scripts/apparition/features/show_origin_tests.gsc
+fed4a60cfcb2dc71d036485490d2ad8f07dd36e3ca5ead413738e79969fd3edd  tests/scripts/apparition/features/sprint_fire_tests.gsc
+58c4d6072a6d180948a309634078a9055b8fdfade10f81f75e40a0717a54387c  tests/scripts/apparition/features/teleport_gun_tests.gsc
+bf8a2e066dee7da2aae8a9368850400f2abf6a9278862299db9d75bdac6de099  tests/scripts/apparition/features/teleport_tests.gsc
+8707aef6f5a32e5d11d0069e670ac47d7ee4a752b70206358f6d40b0f75bc9df  tests/scripts/apparition/features/vision_tests.gsc
+e6c4bc7cd6a40dcd421a6b5a4890a01a0307f2c2a06571733506832beb88ccf9  tests/scripts/apparition/features/weapons_tests.gsc
+c686f405b90bd3f71045168754de8266ec8509a04065d8b1fffe0c6500dda6b3  tests/scripts/apparition/maps/spaceland/arcade_history_tests.gsc
+4b720be8dad093d1807efbcadb0945bfe821325445f70d6c16929da9dd45bb95  tests/scripts/apparition/maps/spaceland/balloons_tests.gsc
+58226b51836c8955acbb309c69970e5a064ad72e67b5467095faa22bfc09fe5c  tests/scripts/apparition/maps/spaceland/bombers_tests.gsc
+3e8cd250ba1d701eb37f6fb8e412e5f557e9f5376f7d396f711c10e4195aefab  tests/scripts/apparition/maps/spaceland/brute_cabinet_tests.gsc
+7d41f73cea52396821a2023228cfb450eacca9d2ccf358ab7238f375c3fd3131  tests/scripts/apparition/maps/spaceland/cabinet_activation_tests.gsc
+874b9dfbe803b83879ada47e7438dc092d173acb8ceec02158507ad241027bac  tests/scripts/apparition/maps/spaceland/dance_tests.gsc
+31e6c278f984327681df0859fc5fba33c1275ac096e056fe9e283b656e54104f  tests/scripts/apparition/maps/spaceland/dj_parts_tests.gsc
+d9942928ecd7eee2d1aab86b776376248f41ed7a67d168491d2ed8a1227284a1  tests/scripts/apparition/maps/spaceland/dj_tests.gsc
+dfc1d48c23f692556bb1c85be8f2b8290e6ead82d4916299fd403ed507315c19  tests/scripts/apparition/maps/spaceland/entity_teleports_tests.gsc
+6f3dea908aaa59f4d142cc3fa3fdde8fb87bf7a49d79673a01a33832e6950bd2  tests/scripts/apparition/maps/spaceland/equipment_tests.gsc
+d8d35797aca79ebe41f12f1831d532366c9595450fed431b86acfabf6239401e  tests/scripts/apparition/maps/spaceland/floating_skull_tests.gsc
+d43196c9da37b22727bf0f439c117744f5683815e36da8c92a1ebae3aff6947c  tests/scripts/apparition/maps/spaceland/fuses_tests.gsc
+90ad878587c283e5b0b755c8f374c687a4a18db5118bef935886aba437d94999  tests/scripts/apparition/maps/spaceland/generators_tests.gsc
+48fbfb700cef1928f7a4e5254cb4d7f0d2fb3ae9e200f0a8d460f38d02b14705  tests/scripts/apparition/maps/spaceland/ghost_history_tests.gsc
+66bea14d654c92131063ba4850e00782bd7491325d385f21367208eb818793d4  tests/scripts/apparition/maps/spaceland/ghost_hit_observer_tests.gsc
+1edf9c0e5b7e16eebfdc58ceb191d7f640c008ea96f7f1cdd6e0cb46158ccd4d  tests/scripts/apparition/maps/spaceland/ghosts_tests.gsc
+61bfdd110043502b40f299513ab53a1147ef4aa51a9b391bf07567fe2b298292  tests/scripts/apparition/maps/spaceland/grey_fuses_tests.gsc
+aaa217cc079e3bc294edc6a33a8ebbd7fe1fa1998654f721e0d6ffda85fa3aab  tests/scripts/apparition/maps/spaceland/grey_sequence_tests.gsc
+8f0e456ba7848b191a5021936481a97fe877c2f0c47290a8b1963c22de863c63  tests/scripts/apparition/maps/spaceland/greys_tests.gsc
+1228982b0e81b4da8097f0c1d47b97df1a4a9b575373c8beb2dc55876d19b045  tests/scripts/apparition/maps/spaceland/node_history_tests.gsc
+de9d133327e05ab48da85446f9ffa8be4aa205d0ecb200f4958d705995d85ed9  tests/scripts/apparition/maps/spaceland/nodes_tests.gsc
+92b52da6e0cc18a973d33e0405b6c70cd8225e76fbeca57e3186a5e5a199119e  tests/scripts/apparition/maps/spaceland/pap_cycles_tests.gsc
+eac90b26d667c5c7ca658d811c03ba07c877d67764f34a5a6b927a7fd51f0dab  tests/scripts/apparition/maps/spaceland/pap_insert_tests.gsc
+fb7c47a12dbe52cbdaedb3f5577e70287298176eee8aa4e6e4b2b3da066daf7f  tests/scripts/apparition/maps/spaceland/perk_sounds_tests.gsc
+3bfdf7d226dde32a63d960619bbd80e162dfc8180f6e5494c3e180467c41f642  tests/scripts/apparition/maps/spaceland/pickup_models_tests.gsc
+f85af1b4193a36e069d327ceac41bbeff6eee2b7c2f3920cae82d71edcb017fc  tests/scripts/apparition/maps/spaceland/portal_travel_tests.gsc
+a98b6c9ccad18c532bdf98d444fa617dd5ad9be39c47531785f5985be5436e22  tests/scripts/apparition/maps/spaceland/portals_tests.gsc
+d2fb1937d822a710b399b7ca5113e98d61ebcbd9d14a68d1086e1808e9f787f4  tests/scripts/apparition/maps/spaceland/power_tests.gsc
+05c0bd102a93909640ec6854b94e6b5117050288ee0edf0fa16e4d68972efd25  tests/scripts/apparition/maps/spaceland/power_worker_tests.gsc
+b08492a5797283ca947238550f8b132e1bf210993e48d29d4a64ca19a04e1537  tests/scripts/apparition/maps/spaceland/powerups_tests.gsc
+d62a3795f145c025d892374c62c83b4a0835af1663a2dea62529de82bc94d050  tests/scripts/apparition/maps/spaceland/quest_tests.gsc
+d489c82830be68f0c4ad6d16dc9944c843fbb61eea4ea9ba2f4083d02f5dd4cf  tests/scripts/apparition/maps/spaceland/reactivation_history_tests.gsc
+6a6ba9ed913f7d5a8582447f04f2e64d6d8f2ccacd5abbd429b11e7cea52c9b3  tests/scripts/apparition/maps/spaceland/revive_tests.gsc
+c1410e696d4c6e65992dee1819bede7afeed7c3687cafeea8c35cf53ce27576b  tests/scripts/apparition/maps/spaceland/soul_key_tests.gsc
+61048cadec1ee8bb93d11fef86b1640a8276805ed8226ad91ec3cca7da0f3ab8  tests/scripts/apparition/maps/spaceland/spawn_points_tests.gsc
+56730353c5a2cc6b0f979073046adb86778493ccc5eb0b0611d38d1a890a3aaa  tests/scripts/apparition/maps/spaceland/speaker_history_tests.gsc
+60ddef973bee1342626a64dd65f789b1601cf85d7379a93f8e7068d172d6d05a  tests/scripts/apparition/maps/spaceland/speaker_placement_tests.gsc
+2a8170948b8398db7dd3ac8f155bd5c7632e333de7a6a413891b2ab7a61d0432  tests/scripts/apparition/maps/spaceland/speakers_tests.gsc
+b67e61ef1864bf71a6cbb8c8a313005f7b7d38a378ca196c3fd937e3d579f546  tests/scripts/apparition/maps/spaceland/tone_worker_tests.gsc
+7ea672a236e6705f8a280bf67c5f37151f46956dc4280869ce6d6ffe53b05026  tests/scripts/apparition/maps/spaceland/tones_tests.gsc
+482ba68928cf32c5ef7b7f22f5fb1b3f895efd31cef824d57ef666857c3087d8  tests/scripts/apparition/maps/spaceland/wave_tests.gsc
+e0ba40587c1697050e5d87cd3433461c8b4b0812997067c08c819de5aac8a448  tests/scripts/apparition/maps/spaceland/zombie_context_tests.gsc
+6c9b13172bbfb4cd336295dd66b1dd518ceb2a84d624acd44754773dbf23f7a8  tests/scripts/apparition/maps/spaceland/zombie_health_tests.gsc
+9fbc984942d6866921e873d304aa7b363044fe16ca343994997420dfbfb4daa1  tests/scripts/apparition/maps/spaceland/zombie_kill_tests.gsc
+29d00b8809c3c680ee3f2b767aa461411448d2e4ffe45b898566bb9c5b8fd830  tests/scripts/apparition/maps/spaceland/zombie_movement_tests.gsc
+873463fb67ae3ef17fe5433f79ced078994dd8cd057230be0c275734832aecc3  tests/scripts/apparition/maps/spaceland/zombie_targets_tests.gsc
+d331ab93b3f167f78451a75eaf9d3e549dd7e390319ddd0be4ab99d0b26a2f9b  tests/scripts/apparition/maps/spaceland/zombie_visibility_tests.gsc
+c5dc9aa5ea86201421884da6014ee98be968de8222c0ce44467ff74ba918b327  tests/scripts/apparition/menu/appearance_tests.gsc
+8ba0465ab806cca294009cb09e10ba7ad7428b1eafed84a0223e3aec0546a66a  tests/scripts/apparition/menu/arcade_rows_tests.gsc
+8de8df3363b7f6e77b50d11c6c3facfef8a0cf3ce8392270824a964d3df6c85c  tests/scripts/apparition/menu/availability_tests.gsc
+98c70f1c9bf0e3637c06523ce3aa71ffc9ea6f5ac3e4e5a644589d357f1ca0bd  tests/scripts/apparition/menu/balloon_rows_tests.gsc
+d5a135f701512e0ad8b87208863f31d53c43d869a2cf4fedcbb5793232e97fa9  tests/scripts/apparition/menu/cabinet_rows_tests.gsc
+4891df4982c1a6bcb7d023b667022e4d84b3c127da27b921cd4f19a0ec03d59b  tests/scripts/apparition/menu/controller_tests.gsc
+e924670a2b9b52aec76b60576e265845dc9f844ae658499228d1a8673222538b  tests/scripts/apparition/menu/credits_plan_tests.gsc
+cb43e54ec4884281cdad186a6eb4b1adbfbfa85f92c06f7aeef38dc335870f57  tests/scripts/apparition/menu/credits_tests.gsc
+d4de070b03959e6ea7339c343ca87ed67f0c9559a7cae0f890fad091e10c13c6  tests/scripts/apparition/menu/crosshair_hud_tests.gsc
+4913af37ab1c073b0a00d7d7298c8b55ee274d2f03a2a903343153e03d45a46b  tests/scripts/apparition/menu/crosshair_row_tests.gsc
+0e1a9e46a33749ec0c93fc708b62b3fa13d17cd6e282fe7203a0f8b4d1967360  tests/scripts/apparition/menu/customization/bindings_tests.gsc
+01460bafe4891b77c6d89290cfd666385fae5c801c013cf7dbe9ee81628bdeea  tests/scripts/apparition/menu/customization/editor_tests.gsc
+d1dcd10af6c6c3a10c15242c41a70661aa163e8e22b1a708e153e0b03908794c  tests/scripts/apparition/menu/customization/palette_tests.gsc
+22df6eae222d722fe35d508648fb82aa3e0c470673ebf4e74f5a0d2fdc42e7a4  tests/scripts/apparition/menu/customization/preferences_tests.gsc
+3990b4c8d6d699312bda9e32126a3f97c43b60c323565578cea998b90effc3fa  tests/scripts/apparition/menu/customization/rows_tests.gsc
+94512a6aa1cc0d60c0bf08e6f8610afc8ffc142905bbfbf5342a400621db1c55  tests/scripts/apparition/menu/customization/settings_tests.gsc
+85b3c0facb2876ae74496c7a8f694d54c05b2900ee95dc63155db47f91cd09cc  tests/scripts/apparition/menu/customization/storage_tests.gsc
+89c7a0ff0d3a1c6ae6415f3e0aca4d119ccbbbe8930581aa3160a2dde078dcb9  tests/scripts/apparition/menu/customization/theme_tests.gsc
+97aec79fe7c8875b183c20c5d6cea93cb9a1941dea63935dee5330f4d58e84a7  tests/scripts/apparition/menu/death_row_tests.gsc
+9f8fe56638943ceebb7e11b64d484ef48267d56565cb7e5e9572ee2bec1e5453  tests/scripts/apparition/menu/demi_row_tests.gsc
+e0c6950f902e9e4812a62a71a1049be912271997cb0587de2f5d8824231b3d5f  tests/scripts/apparition/menu/design_tests.gsc
+17de734e4b3de787ae8b25a621c94d46982c71ca6323712f58c3dd99579e97df  tests/scripts/apparition/menu/dispatch_tests.gsc
+a9e2829caee20e95945dd65ec38371344051bbd82b851f248bea4fe7cd9b51f0  tests/scripts/apparition/menu/dj_parts_row_tests.gsc
+c964d5ad2a5d39ad0abafac4ef448e48a8ad8078e876c3963f665fb026e1c3cc  tests/scripts/apparition/menu/doheart_hud_tests.gsc
+128a567775482ead3589e035e077822fd2fa88c6b5737878f04cba922c067f67  tests/scripts/apparition/menu/doheart_rows_tests.gsc
+a942c58d252c50438085aff78a305483556e2af05b719a1ba00d29a012fda46a  tests/scripts/apparition/menu/entity_rows_tests.gsc
+6d7818c00de2b12b0cdd9c5b73f30f51d7cf9a88f84d9d91555aad97e157c035  tests/scripts/apparition/menu/fun_rows_tests.gsc
+5194186d1f268c345e011213c79304c57430182d367c3de070303aa1ae3bf586  tests/scripts/apparition/menu/health_bar_hud_tests.gsc
+cfa4213256a86415331462d201b869680bf305a6dbc4b2cf794c8c09017f10ce  tests/scripts/apparition/menu/host_rows_tests.gsc
+47691c68cf48ea35e455efd08cebcab08ecc25a5c8cce6ef8135536351b81c6e  tests/scripts/apparition/menu/hud_tests.gsc
+d844aa473569c8357e9d83fe459ce27ad4f978e09eb9f4cbe21379bb6951549c  tests/scripts/apparition/menu/input_tests.gsc
+7652ae7a9d064e1228428ae9598b69b66ba484fa1ad97714f917e3784a814776  tests/scripts/apparition/menu/insta_kill_row_tests.gsc
+a196d7c440c00e3aaca728f8baf57db8b18894c9b1522a554512b81b58276d27  tests/scripts/apparition/menu/instruction_hud_tests.gsc
+fbafd501e0146f820c82ff36cfc781f4de3b015a3bb02aa308b88d00873587e6  tests/scripts/apparition/menu/instructions_tests.gsc
+5d9d7dad07d2549b506db07398725c14549aa544e9872014e08b868427b0c356  tests/scripts/apparition/menu/keyboard_input_hud_tests.gsc
+c7cd48da81854d864127c89a2ff9b34871ad0c7d35414e857b68363c906785a0  tests/scripts/apparition/menu/keyboard_model_tests.gsc
+01783a2bcd4f022019cae35749808acae6c983816aae1d88659551e690c73312  tests/scripts/apparition/menu/keyboard_tests.gsc
+5eef98eee62f484128f1948d444d2ca948933fadbe4ea7b1266588366e8f4a81  tests/scripts/apparition/menu/layout_tests.gsc
+01ac11717a0b7facb8123069c12f9309ed37d5d37189a09d8ba9a38593ad71c2  tests/scripts/apparition/menu/life_tests.gsc
+da1c1bdbe94399bb552b69ae0dff047a05999fa6c458cfb2875139983ac1ce11  tests/scripts/apparition/menu/lobby_teleport_row_tests.gsc
+55c1f99b32c934ccc4edeb7af88685b8f2eeb0c5b4c6363a669870b230d90259  tests/scripts/apparition/menu/lobby_timer_hud_tests.gsc
+a7c6ba52aae2c6566f5066298c0b957665b7025df31be90c41eebd382a190849  tests/scripts/apparition/menu/main_rows_tests.gsc
+280934acd4c1be8aba63f7776b44bc9a5105f13d325471889ea8f9da6b4ef42f  tests/scripts/apparition/menu/message_rows_tests.gsc
+8d0fb960a2bc566912dafbe11327f009374bae90defd1b3f23aeef03b7104015  tests/scripts/apparition/menu/model_tests.gsc
+87023ee55b62ecc5e41b5deb4018e9aa975874d27ed93a04f3d8e437f1c64653  tests/scripts/apparition/menu/newsbar_hud_tests.gsc
+e3edb87e79007015f00d0fc88e2d6e06ef90adf5fa9760bde00463d0fc2d6e57  tests/scripts/apparition/menu/numberpad_hud_tests.gsc
+923a1947e01bff837d264762e5dc45cb96f54a617cc73ec4d2978674a28497f2  tests/scripts/apparition/menu/numberpad_input_tests.gsc
+2afb07d9a64ed317c80970b1e25b5a2c976d888ea495da64b61bdb594f6d7ec5  tests/scripts/apparition/menu/numberpad_model_tests.gsc
+0b0550dca402ae66cc4b3cfda21a8c63a9902321e5758066427e65a99a12af4b  tests/scripts/apparition/menu/numeric_slider_tests.gsc
+77eb8f0fe6fadc27a8b0b412c3db936be5a20c97d9aa293db63c3dd53f8fcecc  tests/scripts/apparition/menu/origin_hud_tests.gsc
+3719fb2446060b893ff248a6bed2589fa04a5c38850981db43a2f8b541df456f  tests/scripts/apparition/menu/ownership_tests.gsc
+604a6d6b605c61585a80d81bc70eaab41d72e644565d17fb77b1e30d245bc4a8  tests/scripts/apparition/menu/player_message_row_tests.gsc
+d0ad5322b1e1ea567c551bfb323f45e0ab07b3d3ae1b0f402e7a3d47898fd05e  tests/scripts/apparition/menu/player_rows_tests.gsc
+18c5f84cdfb200ec9364e89c6d80e66975446c2e61626d721d543bd807fe6573  tests/scripts/apparition/menu/power_row_tests.gsc
+e4bf5779987171b64419d333f6b6f1dda696739144fba17d4db2aff5c8ea024a  tests/scripts/apparition/menu/powerup_rows_tests.gsc
+b7f305c727a4e54223baf211603ddbacbfd447a21476c49474f6bee3ed451e94  tests/scripts/apparition/menu/row_elements_tests.gsc
+971833048160f274e7af0acfa1ee7da9a2eb001d47d82f6d50193557f4ce15ce  tests/scripts/apparition/menu/row_pool_tests.gsc
+1b58e942addaebd2825d3f1236c6c9a57b066044508a328a004217f6f8d136e2  tests/scripts/apparition/menu/scroll_tests.gsc
+f829640b4aed41de79ce33ac351aeb5816f3254e14c932ff08a71870ae1c918d  tests/scripts/apparition/menu/server_rows_tests.gsc
+1b4105c26628685ff9e5a566e594d3179578cafb41c92d4c92dde850c6c4db2b  tests/scripts/apparition/menu/sound_rows_tests.gsc
+f9873b469460cc171ac0482da78aab1e80f6ec8bbefb1da1d1161e3168df29ab  tests/scripts/apparition/menu/spawn_row_tests.gsc
+aa8b810ffe76a8159488538721b5a3dc84ddb59aac964b59fe5a5b00754a6916  tests/scripts/apparition/menu/state_tests.gsc
+19c0a7bfc2b440475576c1a17a274084a0018350b698bab1bcd850d67ea84076  tests/scripts/apparition/menu/teleport_rows_tests.gsc
+966bad634c3b3d9bc82087d5c11a9fa852794482ffbcaf84ba8b21c29f733a13  tests/scripts/apparition/menu/verification_rows_tests.gsc
+031886f80d1f41ae3b7a83e187c7ff8cc145d3a9f885e49e2fbb0b685b08b914  tests/scripts/apparition/menu/vision_row_tests.gsc
+5ec5c51309873a603d255e0f84d8fed24d52bf3c2ea1e990f5c7be7b9995d07b  tests/scripts/apparition/menu/weapon_rows_tests.gsc
+f01688ac571fc629a2afab8ff86b2e55ee6b878d3940cc553d42632fd5d69e07  tests/scripts/apparition/menu/zombie_health_row_tests.gsc
+7d4fb77e9b5206909a505f92cb400079a527ebafa36e413432292528c88b9e40  tests/scripts/apparition/menu/zombie_rows_tests.gsc
+28429f94517e10d70ab8621f2fe5be974f63915273a051733fa312ddb8d97c76  tests/scripts/apparition/navigation_tests.gsc
+1c7bb3e5e18c15f2ac8fb5cb6b9ee884bcec77e4f42f436d4368f97227291abd  tests/scripts/apparition/player_name_tests.gsc
+56668a36537803d230649f02d0cacadf443a1ef0c5140710ce36a31c6862544e  tests/scripts/apparition/runtime/access_tests.gsc
+31622af877a775daa0845302c395b8304479e230d804aa95596bffb5b1774099  tests/scripts/apparition/runtime/context_tests.gsc
+1cff2e50112e4b0c545084bedfbd35027c320ad0be8fd960d32a6bd07dceb668  tests/scripts/apparition/runtime/damage_tests.gsc
+2eea8de6a9fd85e045cf41eb8f27f5a870b48079a228a5ffd2e3b99e4959c330  tests/scripts/apparition/runtime/diagnostics/ammo_tests.gsc
+9f2ec6adf5672646b1781054147d050244045bce5f2737a39131d2afe325a249  tests/scripts/apparition/runtime/diagnostics/inventory_tests.gsc
+0e980266593fb260acafff320cba1aaf734f87b448e0df3ee7b12ab694841479  tests/scripts/apparition/runtime/enemy_damage_tests.gsc
+3edb5033ac2233505b1a549ec339eadb021c9c4406e879e9696699391ffb16aa  tests/scripts/apparition/runtime/events_tests.gsc
+2de0c6a4be923ee1748a47b169ff540f274d02224acf449a0336f689f125f13e  tests/scripts/apparition/runtime/jump_input_tests.gsc
+8f8780aac83d28dec6f0d944ec90ec0654f498aa7b98eb80c6b421d3572addb1  tests/scripts/apparition/runtime/perk_retention_tests.gsc
+f0963455e394cd1ad63c5e95f92413e5fd64bd6b963a795375cd4b9aa9e25aaa  tests/scripts/apparition/runtime/player_control_tests.gsc
+436232cc18a3e6f3c27c058ad7458dfcbd07263470f11e37119b229a1cb01448  tests/scripts/apparition/runtime/view_pages_tests.gsc
+d7d4564d44a6eecb511f2b30dacd3121b7c8dd54d5d4507eef003db3b79db53d  tests/scripts/apparition/runtime/view_tests.gsc
+8e5cdb1473d9be1e083b2a712fc0a104b438be665926a3a7e52689897b5050f2  tests/scripts/apparition/runtime/zombie_health_spawn_tests.gsc
+f319b5d5ca8c28f846d7c2b44dd5c2012cfee248679f3565d684d689198c7d85  tests/support/actors.gsc
+95b0dcba9a46dac4df8332d9eafded3fb0598efe0184248d70c5359ea916f94c  tests/support/checks.gsc
